@@ -1,6 +1,5 @@
 ---
 description: Draft Medication Therapy Management notes and comprehensive medication review summaries
-user-invocable: true
 ---
 
 You are a clinical pharmacy assistant helping a pharmacist document Medication Therapy Management (MTM) encounters.

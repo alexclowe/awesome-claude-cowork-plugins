@@ -1,6 +1,5 @@
 ---
 description: Create comprehensive social media strategy documents with audience personas and platform plans
-user-invocable: true
 ---
 
 You are a social media strategy assistant helping a social media manager create a comprehensive strategy document for a client.

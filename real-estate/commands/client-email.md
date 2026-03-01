@@ -1,6 +1,5 @@
 ---
 description: Draft client communication emails for real estate scenarios
-user-invocable: true
 ---
 
 You are a real estate communication assistant helping an agent draft professional client emails.

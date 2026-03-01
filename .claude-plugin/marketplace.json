@@ -1,93 +1,58 @@
 {
   "name": "aicareerlab-plugins",
   "owner": {
-    "name": "The AI Career Lab",
-    "email": "hello@theaicareerlab.com"
-  },
-  "metadata": {
-    "description": "Profession-specific AI plugins from The AI Career Lab",
-    "version": "1.0.0"
+    "name": "The AI Career Lab"
   },
   "plugins": [
     {
       "name": "pharmacist",
       "source": "./pharmacist",
-      "description": "Review drug interactions, check dosing protocols, and draft patient counseling notes",
-      "version": "1.0.0",
-      "category": "healthcare",
-      "tags": ["healthcare", "pharmacy", "clinical", "medication"]
+      "description": "Review drug interactions, check dosing protocols, and draft patient counseling notes"
     },
     {
       "name": "physical-therapist",
       "source": "./physical-therapist",
-      "description": "Draft SOAP notes, build exercise programs, and write insurance appeal letters",
-      "version": "1.0.0",
-      "category": "healthcare",
-      "tags": ["healthcare", "physical-therapy", "rehabilitation", "documentation"]
+      "description": "Draft SOAP notes, build exercise programs, and write insurance appeal letters"
     },
     {
       "name": "dental-hygienist",
       "source": "./dental-hygienist",
-      "description": "Document periodontal findings, write insurance narratives, and create patient education materials",
-      "version": "1.0.0",
-      "category": "healthcare",
-      "tags": ["healthcare", "dental", "periodontal", "documentation"]
+      "description": "Document periodontal findings, write insurance narratives, and create patient education materials"
     },
     {
       "name": "chiropractor",
       "source": "./chiropractor",
-      "description": "Chart SOAP notes, draft medical necessity letters, and generate practice marketing content",
-      "version": "1.0.0",
-      "category": "healthcare",
-      "tags": ["healthcare", "chiropractic", "SOAP", "practice-marketing"]
+      "description": "Chart SOAP notes, draft medical necessity letters, and generate practice marketing content"
     },
     {
       "name": "real-estate",
       "source": "./real-estate",
-      "description": "Write listing descriptions, draft client emails, and create market analysis narratives",
-      "version": "1.0.0",
-      "category": "real-estate",
-      "tags": ["real-estate", "listings", "MLS", "client-communication"]
+      "description": "Write listing descriptions, draft client emails, and create market analysis narratives"
     },
     {
       "name": "insurance-agent",
       "source": "./insurance-agent",
-      "description": "Summarize policies, draft renewal letters, and generate claims documentation",
-      "version": "1.0.0",
-      "category": "financial",
-      "tags": ["insurance", "policy", "claims", "renewals"]
+      "description": "Summarize policies, draft renewal letters, and generate claims documentation"
     },
     {
       "name": "bookkeeper",
       "source": "./bookkeeper",
-      "description": "Draft financial summaries, prepare reconciliation reports, and generate client communications",
-      "version": "1.0.0",
-      "category": "financial",
-      "tags": ["finance", "bookkeeping", "accounting", "reconciliation"]
+      "description": "Draft financial summaries, prepare reconciliation reports, and generate client communications"
     },
     {
       "name": "financial-advisor",
       "source": "./financial-advisor",
-      "description": "Build plan summaries, draft portfolio reviews, and prepare client meeting documentation",
-      "version": "1.0.0",
-      "category": "financial",
-      "tags": ["finance", "financial-planning", "portfolio", "advisory"]
+      "description": "Build plan summaries, draft portfolio reviews, and prepare client meeting documentation"
     },
     {
       "name": "management-consultant",
       "source": "./management-consultant",
-      "description": "Draft client proposals, write executive summaries, and turn meetings into action plans",
-      "version": "1.0.0",
-      "category": "business",
-      "tags": ["business", "consulting", "proposals", "strategy"]
+      "description": "Draft client proposals, write executive summaries, and turn meetings into action plans"
     },
     {
       "name": "social-media-manager",
       "source": "./social-media-manager",
-      "description": "Generate social captions, build content calendars, and draft client performance reports",
-      "version": "1.0.0",
-      "category": "business",
-      "tags": ["marketing", "social-media", "content", "analytics"]
+      "description": "Generate social captions, build content calendars, and draft client performance reports"
     }
   ]
 }

@@ -1,6 +1,5 @@
 ---
 description: Create structured strategy memos using pyramid principle and consulting frameworks
-user-invocable: true
 ---
 
 You are a management consulting assistant helping a consultant write a structured strategy memo.

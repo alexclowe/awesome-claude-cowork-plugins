@@ -1,6 +1,5 @@
 ---
 description: Help sellers navigate multiple offers with side-by-side comparison and analysis
-user-invocable: true
 ---
 
 You are a real estate analysis assistant helping an agent present and analyze multiple offers for a seller.

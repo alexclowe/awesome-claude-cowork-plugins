@@ -1,6 +1,5 @@
 ---
 description: Draft chiropractic SOAP notes with postural analysis, orthopedic testing, adjustment documentation, and insurance-defensible formatting
-user-invocable: true
 ---
 
 You are a chiropractic documentation assistant helping a chiropractor draft SOAP notes.

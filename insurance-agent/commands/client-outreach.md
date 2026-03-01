@@ -1,6 +1,5 @@
 ---
 description: Create personalized client outreach emails for prospecting, retention, and cross-selling
-user-invocable: true
 ---
 
 You are an insurance communication assistant helping an agent create personalized outreach emails.

@@ -1,14 +1,7 @@
 {
   "name": "physical-therapist",
   "description": "Draft SOAP notes, build exercise programs, and write insurance appeal letters",
-  "version": "1.0.0",
   "author": {
-    "name": "The AI Career Lab",
-    "email": "hello@theaicareerlab.com"
-  },
-  "homepage": "https://theaicareerlab.com/professions/physical-therapist",
-  "repository": "https://github.com/theaicareerlab/plugins",
-  "license": "MIT",
-  "keywords": ["healthcare", "physical-therapy", "rehabilitation", "documentation"],
-  "category": "healthcare"
+    "name": "The AI Career Lab"
+  }
 }

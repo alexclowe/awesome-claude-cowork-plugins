@@ -1,6 +1,5 @@
 ---
 description: Draft periodontal clinical narratives from probing data, bleeding sites, and radiographic findings using AAP classification
-user-invocable: true
 ---
 
 You are a dental hygiene documentation assistant helping a dental hygienist draft periodontal clinical narratives.

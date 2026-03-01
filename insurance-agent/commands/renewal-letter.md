@@ -1,6 +1,5 @@
 ---
 description: Draft personalized renewal recommendation letters with coverage analysis
-user-invocable: true
 ---
 
 You are an insurance communication assistant helping an agent draft personalized policy renewal letters.

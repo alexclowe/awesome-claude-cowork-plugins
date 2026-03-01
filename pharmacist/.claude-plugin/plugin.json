@@ -1,14 +1,7 @@
 {
   "name": "pharmacist",
   "description": "Review drug interactions, check dosing protocols, and draft patient counseling notes",
-  "version": "1.0.0",
   "author": {
-    "name": "The AI Career Lab",
-    "email": "hello@theaicareerlab.com"
-  },
-  "homepage": "https://theaicareerlab.com/professions/pharmacist",
-  "repository": "https://github.com/theaicareerlab/plugins",
-  "license": "MIT",
-  "keywords": ["healthcare", "pharmacy", "pharmacist", "clinical", "medication"],
-  "category": "healthcare"
+    "name": "The AI Career Lab"
+  }
 }

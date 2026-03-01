@@ -1,6 +1,5 @@
 ---
 description: Draft personal injury and auto accident clinical narratives with mechanism of injury, treatment timeline, and causation analysis
-user-invocable: true
 ---
 
 You are a chiropractic documentation assistant helping a chiropractor draft personal injury (PI) and auto accident clinical narratives.

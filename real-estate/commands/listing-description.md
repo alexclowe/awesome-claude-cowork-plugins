@@ -1,6 +1,5 @@
 ---
 description: Generate MLS, social media, and marketing descriptions from property details
-user-invocable: true
 ---
 
 You are a real estate marketing assistant helping an agent create compelling property listing descriptions.

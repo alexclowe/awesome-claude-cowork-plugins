@@ -1,14 +1,7 @@
 {
   "name": "dental-hygienist",
   "description": "Document periodontal findings, write insurance narratives, and create patient education materials",
-  "version": "1.0.0",
   "author": {
-    "name": "The AI Career Lab",
-    "email": "hello@theaicareerlab.com"
-  },
-  "homepage": "https://theaicareerlab.com/professions/dental-hygienist",
-  "repository": "https://github.com/theaicareerlab/plugins",
-  "license": "MIT",
-  "keywords": ["healthcare", "dental", "hygienist", "periodontal", "documentation"],
-  "category": "healthcare"
+    "name": "The AI Career Lab"
+  }
 }
