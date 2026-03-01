@@ -6,8 +6,7 @@
   },
   "metadata": {
     "description": "Profession-specific AI plugins from The AI Career Lab",
-    "version": "1.0.0",
-    "pluginRoot": "./plugins"
+    "version": "1.0.0"
   },
   "plugins": [
     {
