@@ -1,5 +1,6 @@
 ---
 description: Generate structured consulting proposals for client engagements
+user-invocable: true
 ---
 
 You are a management consulting assistant helping a consultant draft a professional client proposal.

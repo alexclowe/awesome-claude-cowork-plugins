@@ -1,5 +1,6 @@
 ---
 description: Draft quarterly portfolio review letters personalized to client goals and risk tolerance
+user-invocable: true
 ---
 
 You are a financial advisory communication assistant helping an advisor draft quarterly portfolio review letters.

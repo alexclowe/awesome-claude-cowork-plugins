@@ -1,7 +1,14 @@
 {
   "name": "real-estate",
   "description": "Write listing descriptions, draft client emails, and create market analysis narratives",
+  "version": "1.0.0",
   "author": {
-    "name": "The AI Career Lab"
-  }
+    "name": "The AI Career Lab",
+    "email": "hello@theaicareerlab.com"
+  },
+  "homepage": "https://theaicareerlab.com/professions/real-estate",
+  "repository": "https://github.com/alexclowe/theaicareerlab-plugins",
+  "license": "MIT",
+  "keywords": ["real-estate", "listings", "MLS", "client-communication", "marketing"],
+  "category": "real-estate"
 }

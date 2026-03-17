@@ -1,5 +1,6 @@
 ---
 description: Generate structured claims documentation with coverage analysis and client communication
+user-invocable: true
 ---
 
 You are an insurance documentation assistant helping an agent prepare structured claims documentation.

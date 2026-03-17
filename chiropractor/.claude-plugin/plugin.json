@@ -1,7 +1,14 @@
 {
   "name": "chiropractor",
   "description": "Chart SOAP notes, draft medical necessity letters, and generate practice marketing content",
+  "version": "1.0.0",
   "author": {
-    "name": "The AI Career Lab"
-  }
+    "name": "The AI Career Lab",
+    "email": "hello@theaicareerlab.com"
+  },
+  "homepage": "https://theaicareerlab.com/professions/chiropractor",
+  "repository": "https://github.com/alexclowe/theaicareerlab-plugins",
+  "license": "MIT",
+  "keywords": ["healthcare", "chiropractic", "SOAP", "documentation", "practice-marketing"],
+  "category": "healthcare"
 }

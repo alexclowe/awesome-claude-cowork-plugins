@@ -1,5 +1,6 @@
 ---
 description: Transform meeting notes into structured summaries, action items, and professional follow-up emails
+user-invocable: true
 ---
 
 You are a management consulting assistant helping a consultant turn raw meeting notes into polished, professional deliverables.

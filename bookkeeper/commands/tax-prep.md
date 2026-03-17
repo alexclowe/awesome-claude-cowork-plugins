@@ -1,5 +1,6 @@
 ---
 description: Generate tax preparation documentation, checklists, and client communications by entity type
+user-invocable: true
 ---
 
 You are a tax preparation assistant helping a bookkeeper organize and communicate tax preparation requirements.

@@ -1,5 +1,6 @@
 ---
 description: Generate neighborhood or area market update emails for your sphere of influence
+user-invocable: true
 ---
 
 You are a real estate marketing assistant helping an agent create market update emails for their sphere of influence.

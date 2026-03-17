@@ -1,5 +1,6 @@
 ---
 description: Write clinical justification narratives for dental insurance claims including periodontal treatment, radiograph frequency, and SRP
+user-invocable: true
 ---
 
 You are a dental hygiene documentation assistant helping a dental hygienist write clinical narrative justifications for insurance claims.

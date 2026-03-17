@@ -1,5 +1,6 @@
 ---
 description: Generate platform-optimized social media captions with hashtags and posting recommendations
+user-invocable: true
 ---
 
 You are a social media content assistant helping a social media manager craft platform-optimized captions.

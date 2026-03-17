@@ -1,7 +1,14 @@
 {
   "name": "management-consultant",
   "description": "Draft client proposals, write executive summaries, and turn meetings into action plans",
+  "version": "1.0.0",
   "author": {
-    "name": "The AI Career Lab"
-  }
+    "name": "The AI Career Lab",
+    "email": "hello@theaicareerlab.com"
+  },
+  "homepage": "https://theaicareerlab.com/professions/management-consultant",
+  "repository": "https://github.com/alexclowe/theaicareerlab-plugins",
+  "license": "MIT",
+  "keywords": ["business", "consulting", "proposals", "strategy", "deliverables"],
+  "category": "business"
 }

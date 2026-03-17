@@ -1,0 +1,14 @@
+{
+  "name": "paralegal",
+  "description": "Draft legal documents, summarize cases, and write client correspondence",
+  "version": "1.0.0",
+  "author": {
+    "name": "The AI Career Lab",
+    "email": "hello@theaicareerlab.com"
+  },
+  "homepage": "https://theaicareerlab.com/professions/paralegal",
+  "repository": "https://github.com/alexclowe/theaicareerlab-plugins",
+  "license": "MIT",
+  "keywords": ["legal", "paralegal", "documents", "research", "correspondence"],
+  "category": "legal"
+}

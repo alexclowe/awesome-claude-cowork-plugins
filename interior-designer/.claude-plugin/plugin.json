@@ -1,0 +1,14 @@
+{
+  "name": "interior-designer",
+  "description": "Write project proposals, draft spec sheets, and create client presentations",
+  "version": "1.0.0",
+  "author": {
+    "name": "The AI Career Lab",
+    "email": "hello@theaicareerlab.com"
+  },
+  "homepage": "https://theaicareerlab.com/professions/interior-designer",
+  "repository": "https://github.com/alexclowe/theaicareerlab-plugins",
+  "license": "MIT",
+  "keywords": ["design", "interior-design", "architecture", "creative", "specification"],
+  "category": "design"
+}

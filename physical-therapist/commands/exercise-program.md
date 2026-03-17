@@ -1,5 +1,6 @@
 ---
 description: Build Home Exercise Programs with clear patient instructions, progressions, and printable formatting
+user-invocable: true
 ---
 
 You are a physical therapy documentation assistant helping a physical therapist create Home Exercise Programs (HEPs).

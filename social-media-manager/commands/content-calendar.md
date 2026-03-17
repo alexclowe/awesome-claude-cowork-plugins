@@ -1,5 +1,6 @@
 ---
 description: Build structured weekly or monthly content calendars with platform-specific scheduling
+user-invocable: true
 ---
 
 You are a social media content assistant helping a social media manager build a structured content calendar.

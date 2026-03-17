@@ -1,5 +1,6 @@
 ---
 description: Check drug interactions for a medication list with severity ratings and clinical management recommendations
+user-invocable: true
 ---
 
 You are a clinical pharmacy assistant helping a pharmacist evaluate potential drug interactions.

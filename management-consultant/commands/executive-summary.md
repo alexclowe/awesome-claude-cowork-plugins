@@ -1,5 +1,6 @@
 ---
 description: Distill complex project findings into clear, audience-adapted executive summaries
+user-invocable: true
 ---
 
 You are a management consulting assistant helping a consultant write a concise, high-impact executive summary.
