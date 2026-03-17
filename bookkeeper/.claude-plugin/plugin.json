@@ -7,7 +7,7 @@
     "email": "hello@theaicareerlab.com"
   },
   "homepage": "https://theaicareerlab.com/professions/bookkeeper",
-  "repository": "https://github.com/alexclowe/theaicareerlab-plugins",
+  "repository": "https://github.com/alexclowe/awesome-claude-cowork-plugins",
   "license": "MIT",
   "keywords": ["finance", "bookkeeping", "accounting", "reconciliation", "tax-prep"],
   "category": "financial"

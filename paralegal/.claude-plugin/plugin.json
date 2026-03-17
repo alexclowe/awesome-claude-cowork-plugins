@@ -7,7 +7,7 @@
     "email": "hello@theaicareerlab.com"
   },
   "homepage": "https://theaicareerlab.com/professions/paralegal",
-  "repository": "https://github.com/alexclowe/theaicareerlab-plugins",
+  "repository": "https://github.com/alexclowe/awesome-claude-cowork-plugins",
   "license": "MIT",
   "keywords": ["legal", "paralegal", "documents", "research", "correspondence"],
   "category": "legal"

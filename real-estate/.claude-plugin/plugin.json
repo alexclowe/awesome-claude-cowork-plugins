@@ -7,7 +7,7 @@
     "email": "hello@theaicareerlab.com"
   },
   "homepage": "https://theaicareerlab.com/professions/real-estate",
-  "repository": "https://github.com/alexclowe/theaicareerlab-plugins",
+  "repository": "https://github.com/alexclowe/awesome-claude-cowork-plugins",
   "license": "MIT",
   "keywords": ["real-estate", "listings", "MLS", "client-communication", "marketing"],
   "category": "real-estate"

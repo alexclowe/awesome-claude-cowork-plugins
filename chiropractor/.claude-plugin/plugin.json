@@ -7,7 +7,7 @@
     "email": "hello@theaicareerlab.com"
   },
   "homepage": "https://theaicareerlab.com/professions/chiropractor",
-  "repository": "https://github.com/alexclowe/theaicareerlab-plugins",
+  "repository": "https://github.com/alexclowe/awesome-claude-cowork-plugins",
   "license": "MIT",
   "keywords": ["healthcare", "chiropractic", "SOAP", "documentation", "practice-marketing"],
   "category": "healthcare"
