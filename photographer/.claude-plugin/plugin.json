@@ -1,0 +1,14 @@
+{
+  "name": "photographer",
+  "description": "Create client proposals, shot lists, album descriptions, and marketing emails for photography businesses",
+  "version": "1.0.0",
+  "author": {
+    "name": "The AI Career Lab",
+    "email": "hello@theaicareerlab.com"
+  },
+  "homepage": "https://theaicareerlab.com/professions/photographer",
+  "repository": "https://github.com/alexclowe/awesome-claude-cowork-plugins",
+  "license": "MIT",
+  "keywords": ["photography", "videography", "creative", "studio", "portfolio"],
+  "category": "design"
+}

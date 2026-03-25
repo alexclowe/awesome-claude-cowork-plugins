@@ -1,0 +1,14 @@
+{
+  "name": "occupational-therapist",
+  "description": "Draft SOAP notes, treatment plans, progress reports, and home exercise programs for occupational therapy",
+  "version": "1.0.0",
+  "author": {
+    "name": "The AI Career Lab",
+    "email": "hello@theaicareerlab.com"
+  },
+  "homepage": "https://theaicareerlab.com/professions/occupational-therapist",
+  "repository": "https://github.com/alexclowe/awesome-claude-cowork-plugins",
+  "license": "MIT",
+  "keywords": ["healthcare", "occupational-therapy", "rehabilitation", "ADL", "functional"],
+  "category": "healthcare"
+}
