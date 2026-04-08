@@ -1,0 +1,460 @@
+{
+  "name": "awesome-claude-cowork-plugins",
+  "owner": {
+    "name": "The AI Career Lab",
+    "email": "hello@theaicareerlab.com"
+  },
+  "metadata": {
+    "description": "Profession-specific Claude plugins from The AI Career Lab \u2014 32 plugins covering healthcare, legal, financial, real estate, business, design, education, events, and the trades. Each plugin installs slash commands and auto-activating skills tailored to the writing workflows of a specific profession.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "pharmacist",
+      "source": "./pharmacist",
+      "description": "Review drug interactions, check dosing protocols, and draft patient counseling notes",
+      "version": "1.0.0",
+      "category": "healthcare",
+      "tags": [
+        "healthcare",
+        "pharmacy",
+        "pharmacist",
+        "clinical",
+        "medication"
+      ]
+    },
+    {
+      "name": "physical-therapist",
+      "source": "./physical-therapist",
+      "description": "Draft SOAP notes, build exercise programs, and write insurance appeal letters",
+      "version": "1.0.0",
+      "category": "healthcare",
+      "tags": [
+        "healthcare",
+        "physical-therapy",
+        "rehabilitation",
+        "documentation"
+      ]
+    },
+    {
+      "name": "occupational-therapist",
+      "source": "./occupational-therapist",
+      "description": "Draft SOAP notes, treatment plans, progress reports, and home exercise programs for occupational therapy",
+      "version": "1.0.0",
+      "category": "healthcare",
+      "tags": [
+        "healthcare",
+        "occupational-therapy",
+        "rehabilitation",
+        "ADL",
+        "functional"
+      ]
+    },
+    {
+      "name": "nurse",
+      "source": "./nurse",
+      "description": "Draft nursing notes, create shift handoffs, build care plans, and generate patient education materials",
+      "version": "1.0.0",
+      "category": "healthcare",
+      "tags": [
+        "healthcare",
+        "nursing",
+        "clinical",
+        "documentation",
+        "patient-care"
+      ]
+    },
+    {
+      "name": "therapist",
+      "source": "./therapist",
+      "description": "Draft session notes, build treatment plans, write pre-authorization letters, and generate client correspondence",
+      "version": "1.0.0",
+      "category": "healthcare",
+      "tags": [
+        "healthcare",
+        "therapy",
+        "counselor",
+        "mental-health",
+        "clinical"
+      ]
+    },
+    {
+      "name": "chiropractor",
+      "source": "./chiropractor",
+      "description": "Chart SOAP notes, draft medical necessity letters, and generate practice marketing content",
+      "version": "1.0.0",
+      "category": "healthcare",
+      "tags": [
+        "healthcare",
+        "chiropractic",
+        "SOAP",
+        "documentation",
+        "practice-marketing"
+      ]
+    },
+    {
+      "name": "dental-hygienist",
+      "source": "./dental-hygienist",
+      "description": "Document periodontal findings, write insurance narratives, and create patient education materials",
+      "version": "1.0.0",
+      "category": "healthcare",
+      "tags": [
+        "healthcare",
+        "dental",
+        "hygienist",
+        "periodontal",
+        "documentation"
+      ]
+    },
+    {
+      "name": "optometrist",
+      "source": "./optometrist",
+      "description": "Document eye exams, draft referral letters, create patient education materials, and write insurance narratives",
+      "version": "1.0.0",
+      "category": "healthcare",
+      "tags": [
+        "healthcare",
+        "optometry",
+        "eye-care",
+        "vision",
+        "clinical"
+      ]
+    },
+    {
+      "name": "veterinarian",
+      "source": "./veterinarian",
+      "description": "Draft SOAP notes, write discharge summaries, and generate client communications",
+      "version": "1.0.0",
+      "category": "healthcare",
+      "tags": [
+        "healthcare",
+        "veterinary",
+        "veterinarian",
+        "clinical",
+        "animal"
+      ]
+    },
+    {
+      "name": "speech-language-pathologist",
+      "source": "./speech-language-pathologist",
+      "description": "Write therapy notes, draft IEP goals, and create therapy materials for speech-language pathologists",
+      "version": "1.0.0",
+      "category": "healthcare",
+      "tags": [
+        "healthcare",
+        "speech-therapy",
+        "slp",
+        "iep",
+        "communication-disorders"
+      ]
+    },
+    {
+      "name": "dietitian",
+      "source": "./dietitian",
+      "description": "Generate nutrition assessments, meal plans, progress notes, and client education materials for dietitians",
+      "version": "1.0.0",
+      "category": "wellness",
+      "tags": [
+        "nutrition",
+        "dietitian",
+        "meal-plan",
+        "clinical-nutrition",
+        "wellness"
+      ]
+    },
+    {
+      "name": "personal-trainer",
+      "source": "./personal-trainer",
+      "description": "Build workout programs, write nutrition plans, and generate client reports",
+      "version": "1.0.0",
+      "category": "wellness",
+      "tags": [
+        "wellness",
+        "fitness",
+        "personal-trainer",
+        "exercise",
+        "nutrition"
+      ]
+    },
+    {
+      "name": "attorney",
+      "source": "./attorney",
+      "description": "Draft client memos, demand letters, contract summaries, and billing narratives",
+      "version": "1.0.0",
+      "category": "legal",
+      "tags": [
+        "legal",
+        "attorney",
+        "lawyer",
+        "litigation",
+        "contracts"
+      ]
+    },
+    {
+      "name": "paralegal",
+      "source": "./paralegal",
+      "description": "Draft legal documents, summarize cases, and write client correspondence",
+      "version": "1.0.0",
+      "category": "legal",
+      "tags": [
+        "legal",
+        "paralegal",
+        "documents",
+        "research",
+        "correspondence"
+      ]
+    },
+    {
+      "name": "financial-advisor",
+      "source": "./financial-advisor",
+      "description": "Build plan summaries, draft portfolio reviews, and prepare client meeting documentation",
+      "version": "1.0.0",
+      "category": "financial",
+      "tags": [
+        "finance",
+        "financial-planning",
+        "portfolio",
+        "wealth-management",
+        "advisory"
+      ]
+    },
+    {
+      "name": "bookkeeper",
+      "source": "./bookkeeper",
+      "description": "Draft financial summaries, prepare reconciliation reports, and generate client communications",
+      "version": "1.0.0",
+      "category": "financial",
+      "tags": [
+        "finance",
+        "bookkeeping",
+        "accounting",
+        "reconciliation",
+        "tax-prep"
+      ]
+    },
+    {
+      "name": "insurance-agent",
+      "source": "./insurance-agent",
+      "description": "Summarize policies, draft renewal letters, and generate claims documentation",
+      "version": "1.0.0",
+      "category": "financial",
+      "tags": [
+        "insurance",
+        "policy",
+        "claims",
+        "renewals",
+        "client-communication"
+      ]
+    },
+    {
+      "name": "mortgage-broker",
+      "source": "./mortgage-broker",
+      "description": "Generate rate comparisons, draft pre-approval letters, and create client communications for mortgage lending",
+      "version": "1.0.0",
+      "category": "financial",
+      "tags": [
+        "mortgage",
+        "lending",
+        "loan-officer",
+        "finance",
+        "real-estate"
+      ]
+    },
+    {
+      "name": "real-estate",
+      "source": "./real-estate",
+      "description": "Write listing descriptions, draft client emails, and create market analysis narratives",
+      "version": "1.0.0",
+      "category": "real-estate",
+      "tags": [
+        "real-estate",
+        "listings",
+        "MLS",
+        "client-communication",
+        "marketing"
+      ]
+    },
+    {
+      "name": "property-manager",
+      "source": "./property-manager",
+      "description": "Draft tenant notices, board reports, vendor emails, and budget narratives for property management",
+      "version": "1.0.0",
+      "category": "real-estate",
+      "tags": [
+        "real-estate",
+        "property-management",
+        "hoa",
+        "tenant",
+        "landlord"
+      ]
+    },
+    {
+      "name": "management-consultant",
+      "source": "./management-consultant",
+      "description": "Draft client proposals, write executive summaries, and turn meetings into action plans",
+      "version": "1.0.0",
+      "category": "business",
+      "tags": [
+        "business",
+        "consulting",
+        "proposals",
+        "strategy",
+        "deliverables"
+      ]
+    },
+    {
+      "name": "executive-assistant",
+      "source": "./executive-assistant",
+      "description": "Triage inboxes, prep meetings, and draft follow-ups that keep executives moving",
+      "version": "1.0.0",
+      "category": "business",
+      "tags": [
+        "business",
+        "executive-assistant",
+        "operations",
+        "calendar",
+        "communication"
+      ]
+    },
+    {
+      "name": "hr-manager",
+      "source": "./hr-manager",
+      "description": "Write job descriptions, draft policies, and create onboarding materials",
+      "version": "1.0.0",
+      "category": "business",
+      "tags": [
+        "hr",
+        "human-resources",
+        "hiring",
+        "policies",
+        "onboarding"
+      ]
+    },
+    {
+      "name": "recruiter",
+      "source": "./recruiter",
+      "description": "Write job descriptions, draft candidate outreach, and build interview scorecards",
+      "version": "1.0.0",
+      "category": "business",
+      "tags": [
+        "business",
+        "recruiting",
+        "hiring",
+        "talent-acquisition",
+        "hr"
+      ]
+    },
+    {
+      "name": "sales-rep",
+      "source": "./sales-rep",
+      "description": "Research prospects, draft proposals, and write follow-up sequences for sales reps",
+      "version": "1.0.0",
+      "category": "business",
+      "tags": [
+        "business",
+        "sales",
+        "prospecting",
+        "proposals",
+        "outreach"
+      ]
+    },
+    {
+      "name": "social-media-manager",
+      "source": "./social-media-manager",
+      "description": "Generate social captions, build content calendars, and draft client performance reports",
+      "version": "1.0.0",
+      "category": "business",
+      "tags": [
+        "marketing",
+        "social-media",
+        "content",
+        "analytics",
+        "captions"
+      ]
+    },
+    {
+      "name": "interior-designer",
+      "source": "./interior-designer",
+      "description": "Write project proposals, draft spec sheets, and create client presentations",
+      "version": "1.0.0",
+      "category": "design",
+      "tags": [
+        "design",
+        "interior-design",
+        "architecture",
+        "creative",
+        "specification"
+      ]
+    },
+    {
+      "name": "photographer",
+      "source": "./photographer",
+      "description": "Create client proposals, shot lists, album descriptions, and marketing emails for photography businesses",
+      "version": "1.0.0",
+      "category": "design",
+      "tags": [
+        "photography",
+        "videography",
+        "creative",
+        "studio",
+        "portfolio"
+      ]
+    },
+    {
+      "name": "teacher",
+      "source": "./teacher",
+      "description": "Build lesson plans, create rubrics, and draft parent communications",
+      "version": "1.0.0",
+      "category": "education",
+      "tags": [
+        "education",
+        "teacher",
+        "lesson-plan",
+        "classroom",
+        "curriculum"
+      ]
+    },
+    {
+      "name": "event-planner",
+      "source": "./event-planner",
+      "description": "Create event proposals, vendor outreach, day-of timelines, and client updates for event planning",
+      "version": "1.0.0",
+      "category": "events",
+      "tags": [
+        "events",
+        "wedding",
+        "planning",
+        "coordination",
+        "hospitality"
+      ]
+    },
+    {
+      "name": "tradesperson",
+      "source": "./tradesperson",
+      "description": "Write customer estimates, inspection reports, scopes of work, and follow-up emails for trades businesses",
+      "version": "1.0.0",
+      "category": "trades",
+      "tags": [
+        "trades",
+        "plumbing",
+        "electrical",
+        "hvac",
+        "contractor"
+      ]
+    },
+    {
+      "name": "construction-pm",
+      "source": "./construction-pm",
+      "description": "Create project estimates, change orders, progress reports, and RFI responses for construction project management",
+      "version": "1.0.0",
+      "category": "trades",
+      "tags": [
+        "construction",
+        "project-management",
+        "estimating",
+        "contractor",
+        "building"
+      ]
+    }
+  ]
+}
