@@ -66,6 +66,13 @@ This output is a professional draft — review and customize before client deliv
 
 ## More resources
 
-- [AI Readiness Audit for Management Consultants](https://theaicareerlab.com/audit?profession=management-consultant)
-- [AI Tools for Management Consultants](https://theaicareerlab.com/professions/management-consultant)
-- [Weekly AI Digest for Management Consultants](https://theaicareerlab.com/newsletter)
+- **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for management consultants: https://theaicareerlab.com/professions/management-consultant
+- **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-management-consultant
+- **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=management-consultant
+- **Weekly AI Digest** — Curated AI updates for management consultants: https://theaicareerlab.com/newsletter
+
+> **Want a quick win without installing this plugin?** [The free web tools](https://theaicareerlab.com/professions/management-consultant) on AI Career Lab give you five runs a day on a free account — no credit card required.
+
+### Recommended tools we partner with
+
+- **[HubSpot CRM](https://hubspot.com/?ref=aicareerlab)** — Free CRM for sales, marketing, and service teams. Scales with you as your client base grows. _Free forever plan._ → [Get HubSpot Free](https://hubspot.com/?ref=aicareerlab)

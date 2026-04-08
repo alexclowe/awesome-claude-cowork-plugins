@@ -63,6 +63,13 @@ This output is a professional draft — verify all financial data and consult wi
 
 ## More resources
 
-- [AI Readiness Audit for Bookkeepers](https://theaicareerlab.com/audit?profession=bookkeeper)
-- [AI Tools for Bookkeepers](https://theaicareerlab.com/professions/bookkeeper)
-- [Weekly AI Digest for Bookkeepers](https://theaicareerlab.com/newsletter)
+- **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for bookkeepers: https://theaicareerlab.com/professions/bookkeeper
+- **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-bookkeeper
+- **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=bookkeeper
+- **Weekly AI Digest** — Curated AI updates for bookkeepers: https://theaicareerlab.com/newsletter
+
+> **Want a quick win without installing this plugin?** [The free web tools](https://theaicareerlab.com/professions/bookkeeper) on AI Career Lab give you five runs a day on a free account — no credit card required.
+
+### Recommended tools we partner with
+
+- **[FreshBooks](https://freshbooks.com/?ref=aicareerlab)** — Accounting software built for small business owners. Invoicing, expenses, and reporting — done. _30-day free trial._ → [Try FreshBooks Free](https://freshbooks.com/?ref=aicareerlab)

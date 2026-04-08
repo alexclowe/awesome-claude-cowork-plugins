@@ -67,6 +67,13 @@ This output is a professional draft — verify all property details, MLS complia
 
 ## More resources
 
-- [AI Readiness Audit for Real Estate Agents](https://theaicareerlab.com/audit?profession=real-estate)
-- [AI Tools for Real Estate Agents](https://theaicareerlab.com/professions/real-estate)
-- [Weekly AI Digest for Real Estate Agents](https://theaicareerlab.com/newsletter)
+- **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for real estate agents: https://theaicareerlab.com/professions/real-estate
+- **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-real-estate
+- **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=real-estate
+- **Weekly AI Digest** — Curated AI updates for real estate agents: https://theaicareerlab.com/newsletter
+
+> **Want a quick win without installing this plugin?** [The free web tools](https://theaicareerlab.com/professions/real-estate) on AI Career Lab give you five runs a day on a free account — no credit card required.
+
+### Recommended tools we partner with
+
+- **[CustomGPT.ai](https://customgpt.ai/?ref=aicareerlab)** — Build a custom AI chatbot trained on your content, listings, or client database in minutes. _Free trial._ → [Build Your AI Chatbot](https://customgpt.ai/?ref=aicareerlab)

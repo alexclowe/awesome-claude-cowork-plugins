@@ -65,6 +65,13 @@ All content generated with this plugin is a professional draft requiring attorne
 
 ## More resources
 
-- [AI Readiness Audit for Paralegals](https://theaicareerlab.com/audit?profession=paralegal)
-- [AI Tools for Paralegals](https://theaicareerlab.com/professions/paralegal)
-- [Weekly AI Digest for Paralegals](https://theaicareerlab.com/newsletter)
+- **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for paralegals: https://theaicareerlab.com/professions/paralegal
+- **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-paralegal
+- **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=paralegal
+- **Weekly AI Digest** — Curated AI updates for paralegals: https://theaicareerlab.com/newsletter
+
+> **Want a quick win without installing this plugin?** [The free web tools](https://theaicareerlab.com/professions/paralegal) on AI Career Lab give you five runs a day on a free account — no credit card required.
+
+### Recommended tools we partner with
+
+- **[Clio](https://clio.com/?ref=aicareerlab)** — The #1 law practice management software. Cases, clients, billing, and documents in one place. _30-day free trial._ → [Try Clio Free](https://clio.com/?ref=aicareerlab)

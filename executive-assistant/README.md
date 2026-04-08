@@ -53,3 +53,12 @@ Today's schedule: investor prep at 8:30, three hiring interviews, customer escal
 Inbox pressure: 37 unread messages
 Need: top 5 priorities, what to delegate, what can wait, and a suggested order of operations
 ```
+
+## More resources
+
+- **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for executive assistants: https://theaicareerlab.com/professions/executive-assistant
+- **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-executive-assistant
+- **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=executive-assistant
+- **Weekly AI Digest** — Curated AI updates for executive assistants: https://theaicareerlab.com/newsletter
+
+> **Want a quick win without installing this plugin?** [The free web tools](https://theaicareerlab.com/professions/executive-assistant) on AI Career Lab give you five runs a day on a free account — no credit card required.

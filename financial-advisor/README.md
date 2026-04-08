@@ -70,6 +70,13 @@ This output is a professional draft — verify all financial data and ensure com
 
 ## More resources
 
-- [AI Readiness Audit for Financial Advisors](https://theaicareerlab.com/audit?profession=financial-advisor)
-- [AI Tools for Financial Advisors](https://theaicareerlab.com/professions/financial-advisor)
-- [Weekly AI Digest for Financial Advisors](https://theaicareerlab.com/newsletter)
+- **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for financial advisors: https://theaicareerlab.com/professions/financial-advisor
+- **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-financial-advisor
+- **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=financial-advisor
+- **Weekly AI Digest** — Curated AI updates for financial advisors: https://theaicareerlab.com/newsletter
+
+> **Want a quick win without installing this plugin?** [The free web tools](https://theaicareerlab.com/professions/financial-advisor) on AI Career Lab give you five runs a day on a free account — no credit card required.
+
+### Recommended tools we partner with
+
+- **[QuickBooks](https://quickbooks.intuit.com/?ref=aicareerlab)** — The most trusted name in small business accounting. Simplify your books in minutes. _30-day free trial._ → [Start Free Trial](https://quickbooks.intuit.com/?ref=aicareerlab)
