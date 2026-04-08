@@ -76,7 +76,3 @@ This output is a professional draft — verify all financial data and ensure com
 - **Weekly AI Digest** — Curated AI updates for financial advisors: https://theaicareerlab.com/newsletter
 
 > **Want a quick win without installing this plugin?** [The free web tools](https://theaicareerlab.com/professions/financial-advisor) on AI Career Lab give you five runs a day on a free account — no credit card required.
-
-### Recommended tools we partner with
-
-- **[QuickBooks](https://quickbooks.intuit.com/?ref=aicareerlab)** — The most trusted name in small business accounting. Simplify your books in minutes. _30-day free trial._ → [Start Free Trial](https://quickbooks.intuit.com/?ref=aicareerlab)

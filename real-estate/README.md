@@ -76,4 +76,4 @@ This output is a professional draft — verify all property details, MLS complia
 
 ### Recommended tools we partner with
 
-- **[CustomGPT.ai](https://customgpt.ai/?ref=aicareerlab)** — Build a custom AI chatbot trained on your content, listings, or client database in minutes. _Free trial._ → [Build Your AI Chatbot](https://customgpt.ai/?ref=aicareerlab)
+- **[CustomGPT.ai](https://customgpt.ai/?fpr=alex53)** — Build a custom AI chatbot trained on your content, listings, or client database in minutes. _Free trial._ → [Build Your AI Chatbot](https://customgpt.ai/?fpr=alex53)

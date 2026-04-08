@@ -71,7 +71,3 @@ All content generated with this plugin is a professional draft requiring attorne
 - **Weekly AI Digest** — Curated AI updates for paralegals: https://theaicareerlab.com/newsletter
 
 > **Want a quick win without installing this plugin?** [The free web tools](https://theaicareerlab.com/professions/paralegal) on AI Career Lab give you five runs a day on a free account — no credit card required.
-
-### Recommended tools we partner with
-
-- **[Clio](https://clio.com/?ref=aicareerlab)** — The #1 law practice management software. Cases, clients, billing, and documents in one place. _30-day free trial._ → [Try Clio Free](https://clio.com/?ref=aicareerlab)

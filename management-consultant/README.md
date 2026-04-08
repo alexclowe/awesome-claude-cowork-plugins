@@ -72,7 +72,3 @@ This output is a professional draft — review and customize before client deliv
 - **Weekly AI Digest** — Curated AI updates for management consultants: https://theaicareerlab.com/newsletter
 
 > **Want a quick win without installing this plugin?** [The free web tools](https://theaicareerlab.com/professions/management-consultant) on AI Career Lab give you five runs a day on a free account — no credit card required.
-
-### Recommended tools we partner with
-
-- **[HubSpot CRM](https://hubspot.com/?ref=aicareerlab)** — Free CRM for sales, marketing, and service teams. Scales with you as your client base grows. _Free forever plan._ → [Get HubSpot Free](https://hubspot.com/?ref=aicareerlab)

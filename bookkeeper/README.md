@@ -69,7 +69,3 @@ This output is a professional draft — verify all financial data and consult wi
 - **Weekly AI Digest** — Curated AI updates for bookkeepers: https://theaicareerlab.com/newsletter
 
 > **Want a quick win without installing this plugin?** [The free web tools](https://theaicareerlab.com/professions/bookkeeper) on AI Career Lab give you five runs a day on a free account — no credit card required.
-
-### Recommended tools we partner with
-
-- **[FreshBooks](https://freshbooks.com/?ref=aicareerlab)** — Accounting software built for small business owners. Invoicing, expenses, and reporting — done. _30-day free trial._ → [Try FreshBooks Free](https://freshbooks.com/?ref=aicareerlab)

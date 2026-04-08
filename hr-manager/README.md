@@ -68,4 +68,4 @@ Tone: Conversational
 
 ### Recommended tools we partner with
 
-- **[HubSpot CRM](https://hubspot.com/?ref=aicareerlab)** — Free CRM for sales, marketing, and service teams. Scales with you as your client base grows. _Free forever plan._ → [Get HubSpot Free](https://hubspot.com/?ref=aicareerlab)
+- **[Synthesia](https://www.synthesia.io/?via=alex-lowe)** — Create professional training videos with AI avatars — no camera, no crew, no studio. _Free trial._ → [Create Free AI Video](https://www.synthesia.io/?via=alex-lowe)
