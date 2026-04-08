@@ -74,4 +74,4 @@ This output is a professional draft — review and customize for each client's b
 
 ### Recommended tools we partner with
 
-- **[SocialPilot](https://socialpilot.co/?ref=aicareerlab)** — Schedule posts, manage analytics, and collaborate with clients across all social platforms. _14-day free trial._ → [Try SocialPilot Free](https://socialpilot.co/?ref=aicareerlab)
+- **[SocialPilot](https://www.socialpilot.co/?fp_ref=3e58ji)** — Schedule posts, manage analytics, and collaborate with clients across all social platforms. _14-day free trial._ → [Try SocialPilot Free](https://www.socialpilot.co/?fp_ref=3e58ji)
