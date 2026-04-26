@@ -1,7 +1,7 @@
 {
   "name": "teacher",
-  "description": "Build lesson plans, create rubrics, and draft parent communications",
-  "version": "1.0.0",
+  "description": "Lesson plans, rubrics, parent communications, plus FERPA/COPPA AI guardrails, AI ethics briefs, and exam-integrity review",
+  "version": "1.1.0",
   "author": {
     "name": "The AI Career Lab",
     "email": "hello@theaicareerlab.com"
@@ -9,6 +9,6 @@
   "homepage": "https://theaicareerlab.com/professions/teacher",
   "repository": "https://github.com/alexclowe/awesome-claude-cowork-plugins",
   "license": "MIT",
-  "keywords": ["education", "teacher", "lesson-plan", "classroom", "curriculum"],
+  "keywords": ["education", "teacher", "lesson-plan", "classroom", "curriculum", "ferpa", "ai-literacy", "academic-integrity", "ai-ethics"],
   "category": "education"
 }

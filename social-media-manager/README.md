@@ -1,6 +1,6 @@
 # Social Media Manager Plugin for Claude
 
-Generate social captions, build content calendars, and draft client performance reports.
+Generate captions, build calendars, write video scripts, brief visuals, and adapt content across platforms.
 
 Built by [The AI Career Lab](https://theaicareerlab.com/professions/social-media-manager) — AI tools, guides, and weekly digests designed specifically for social media managers.
 
@@ -12,6 +12,9 @@ Built by [The AI Career Lab](https://theaicareerlab.com/professions/social-media
 | `/content-calendar` | Build structured weekly or monthly content calendars with platform-specific scheduling |
 | `/performance-report` | Turn raw social media metrics into professional client performance reports with insights and recommendations |
 | `/strategy-doc` | Create comprehensive social media strategy documents with audience personas and platform plans |
+| `/visual-brief` | Design visual specs and text variations for TikTok, Instagram Reels, and LinkedIn carousel from a single prompt |
+| `/video-script` | Write video scripts with timestamps, B-roll cues, captions, and platform-specific hooks |
+| `/cross-post` | Auto-adapt one post for platform-native voice across LinkedIn, X, TikTok, Instagram, and Threads |
 
 ## Skills
 
@@ -19,8 +22,37 @@ This plugin includes skills that activate automatically when you're working on s
 
 - **Social Content Creation** — Platform-specific content expertise for Instagram, LinkedIn, TikTok, X/Twitter, Facebook, and Threads, including hook formulas, hashtag strategy, CTA placement, and content repurposing across platforms
 - **Social Analytics** — Engagement rate calculations by platform, reach vs impressions, attribution models, UTM tracking, and translating raw metrics into actionable client insights
+- **Visual Design Brief** — Designer-ready visual brief expertise — layout, palette, type, mood, and motion notes for handoff to Claude Design or a designer
+- **Platform-Native Voice** — Auto-adapts tone to platform norms — LinkedIn professional, X witty, TikTok conversational, Threads candid
 
 ## Usage examples
+
+```
+/visual-brief
+Campaign: spring launch of our small-batch ceramic mugs. Brand voice: warm,
+slow-craft, unfussy. Brand palette: bone, terracotta, deep moss. Generate
+designer-ready briefs and copy for TikTok, Instagram Reel, and LinkedIn carousel.
+Production scope: we have raw studio footage of the maker at the wheel and 6
+flat-lay product photos. CTA goal: drive saves and link-in-bio clicks.
+```
+
+```
+/video-script
+Write a 30-second TikTok script for our boutique fitness studio. Topic: the
+3 mistakes new lifters make on deadlifts. Brand voice: knowledgeable but warm,
+no gym-bro energy. Talent: head coach on camera, single-take phone shoot,
+gym B-roll available. Goal: drive class bookings via link in bio.
+```
+
+```
+/cross-post
+Adapt this LinkedIn post into native versions for X (thread), Threads, and
+Instagram (single image + caption). Source: "After 6 years running a creative
+agency, the single biggest unlock for our retention was firing the lowest-margin
+20% of clients every January. Revenue dropped 8%. Profit went up 31%. The
+bandwidth we got back let us deliver work that actually compounded — and the
+top clients started referring us more."
+```
 
 ```
 /caption
@@ -49,19 +81,9 @@ TikTok — 5,200 followers (+890), avg views 8.2K, viral video on latte art
 Goals: grow TikTok to 10K followers by Q2, increase Instagram engagement to 3.5%.
 ```
 
-```
-/strategy-doc
-Brand: Apex Fitness (chain of 8 boutique gyms in the Pacific Northwest).
-Target audience: health-conscious professionals aged 28-45, urban, income $75K+.
-Goals: increase class bookings by 20%, build community, attract new members.
-Current presence: Instagram (4,200 followers, posting 2x/week), no TikTok,
-Facebook page with 1,800 followers (inactive). Budget for content creation
-but not paid ads initially.
-```
-
 ## Disclaimer
 
-This output is a professional draft — review and customize for each client's brand voice and guidelines. The social media manager is responsible for verifying platform compliance, fact-checking claims, and tailoring content to specific client contexts.
+This output is a professional draft — review and customize for each client's brand voice and guidelines. The social media manager is responsible for verifying platform compliance, fact-checking claims, ensuring accessibility (WCAG AA minimum on visual deliverables), and tailoring content to specific client contexts.
 
 ## More resources
 

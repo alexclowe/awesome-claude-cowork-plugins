@@ -1,7 +1,7 @@
 {
   "name": "therapist",
-  "description": "Draft session notes, build treatment plans, write pre-authorization letters, and generate client correspondence",
-  "version": "1.0.0",
+  "description": "Draft session notes, build treatment plans, run HIPAA checks, aggregate outcome measures, and version treatment plans",
+  "version": "1.1.0",
   "author": {
     "name": "The AI Career Lab",
     "email": "hello@theaicareerlab.com"
@@ -9,6 +9,6 @@
   "homepage": "https://theaicareerlab.com/professions/therapist",
   "repository": "https://github.com/alexclowe/awesome-claude-cowork-plugins",
   "license": "MIT",
-  "keywords": ["healthcare", "therapy", "counselor", "mental-health", "clinical"],
+  "keywords": ["healthcare", "therapy", "counselor", "mental-health", "clinical", "hipaa", "outcomes", "trauma-informed", "c-ssrs"],
   "category": "healthcare"
 }

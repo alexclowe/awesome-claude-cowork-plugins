@@ -1,0 +1,14 @@
+{
+  "name": "product-manager-ai",
+  "description": "Spec AI features, evaluate regulatory risk, plan staged rollouts, and turn user feedback into the next sprint",
+  "version": "1.0.0",
+  "author": {
+    "name": "The AI Career Lab",
+    "email": "hello@theaicareerlab.com"
+  },
+  "homepage": "https://theaicareerlab.com/professions/product-manager-ai",
+  "repository": "https://github.com/alexclowe/awesome-claude-cowork-plugins",
+  "license": "MIT",
+  "keywords": ["product-management", "ai-product", "spec-writing", "regulatory", "rollout"],
+  "category": "business"
+}

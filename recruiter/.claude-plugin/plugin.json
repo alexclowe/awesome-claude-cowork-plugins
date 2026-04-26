@@ -1,7 +1,7 @@
 {
   "name": "recruiter",
-  "description": "Write job descriptions, draft candidate outreach, and build interview scorecards",
-  "version": "1.0.0",
+  "description": "Write job descriptions, draft outreach, screen for ghost jobs and AI-written resumes",
+  "version": "1.1.0",
   "author": {
     "name": "The AI Career Lab",
     "email": "hello@theaicareerlab.com"
@@ -9,6 +9,6 @@
   "homepage": "https://theaicareerlab.com/professions/recruiter",
   "repository": "https://github.com/alexclowe/awesome-claude-cowork-plugins",
   "license": "MIT",
-  "keywords": ["business", "recruiting", "hiring", "talent-acquisition", "hr"],
+  "keywords": ["business", "recruiting", "hiring", "talent-acquisition", "hr", "ghost-jobs", "ai-resume-screening", "compensation"],
   "category": "business"
 }

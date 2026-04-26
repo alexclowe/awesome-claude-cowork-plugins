@@ -1,6 +1,6 @@
 # Financial Advisor Plugin for Claude
 
-Build plan summaries, draft portfolio reviews, and prepare client meeting documentation.
+Build plan summaries, draft portfolio reviews, prepare client meeting documentation, run tax-loss harvesting and ESG screens, track regulatory change, and coordinate multi-jurisdiction tax strategy.
 
 Built by [The AI Career Lab](https://theaicareerlab.com/professions/financial-advisor) — AI tools, guides, and weekly digests designed specifically for financial advisors.
 
@@ -12,6 +12,10 @@ Built by [The AI Career Lab](https://theaicareerlab.com/professions/financial-ad
 | `/review-letter` | Draft quarterly portfolio review letters personalized to client goals and risk tolerance |
 | `/meeting-notes` | Transform raw meeting notes into professional documentation with follow-up email |
 | `/recommendation-memo` | Create structured recommendation memos for financial planning decisions with compliance-friendly language |
+| `/tax-loss-harvest` | Identify tax-loss harvesting opportunities, estimate tax savings, and flag wash-sale risks across all account types |
+| `/screen-esg-portfolio` | Screen holdings against ESG criteria using SASB materiality and produce a detractors / improvers exposure report |
+| `/compliance-tracker` | Surface relevant SEC, FINRA, and IRS rule updates and translate impact on portfolios and disclosures |
+| `/multi-jurisdiction-tax` | Coordinate tax strategy across state and country lines for clients with multi-jurisdiction exposure |
 
 ## Skills
 
@@ -19,6 +23,7 @@ This plugin includes skills that activate automatically when you're working on f
 
 - **Financial Planning** — Retirement, education, estate, tax, and insurance planning knowledge including Social Security optimization, Roth conversion strategies, and Monte Carlo simulation interpretation
 - **Advisory Communication** — Client communication with fiduciary tone, compliance-friendly language, plain-language financial education, and constructive volatility framing
+- **Regulatory Change Monitor** — Current SEC, FINRA, IRS landscape with effective dates; auto-flags advice impacted by Marketing Rule, SECURE 2.0, Names Rule, NIIT, IRMAA, and recent litigation
 
 ## Usage examples
 
@@ -33,24 +38,42 @@ umbrella insurance, create wills and revocable trust.
 ```
 
 ```
-/review-letter
-Client: "Janet Morrison," age 58, retiring in 4 years. Conservative-moderate
-risk. Portfolio: $1.2M, 55/40/5 stocks/bonds/cash. Q4 2025: portfolio +3.2%
-vs 60/40 benchmark +2.8%. YTD: +11.4% vs +10.1%. Market context: strong
-Q4 equity rally, bond yields stabilized. No changes made. Upcoming: discuss
-Roth conversion strategy before retirement, review Social Security timing.
+/tax-loss-harvest
+Year-end TLH analysis for "Patricia Long," 24% federal bracket, NY resident.
+Taxable account: $1.4M. Holdings with unrealized losses: large-cap growth
+ETF (-$42K, lots from 2021), international developed ETF (-$28K), small-cap
+value fund (-$11K). Spouse has Roth IRA holding the same large-cap growth
+ETF — has been DCA'ing monthly. Prior-year carryforward: $18K LTCL.
+Estimate savings, flag wash-sale risks (especially the cross-account Roth),
+suggest replacement strategies for 31-day window.
 ```
 
 ```
-/meeting-notes
-Annual review with "Tom and Lisa Park," 3/1/2026. Discussed: retirement
-timeline (Tom wants to retire at 60, Lisa at 62 — 3 and 5 yrs out).
-Reviewed portfolio — up 12% this year, on track. Tom concerned about
-market volatility. Discussed moving to more conservative allocation over
-next 2 years. Lisa asked about long-term care — agreed to get quotes.
-Need to update beneficiaries — still have ex-spouse on Tom's 401k.
-Schedule next review in 6 months. Tom bringing his mom's estate docs
-to discuss inheritance planning.
+/screen-esg-portfolio
+ESG screen for "Marcus Webb," 38, has stated priorities: decarbonization
+(Paris-aligned), no civilian firearms, board diversity. Portfolio: 60% US
+equity (S&P 500 fund), 25% intl equity (developed markets fund), 15% bonds
+(US aggregate). Apply SASB materiality, produce detractors/improvers list,
+recommend strategy adjustments, and draft IPS language.
+```
+
+```
+/multi-jurisdiction-tax
+Client "Aisha Rahman," CA resident relocating to TX in Q3. Owns: $4M taxable
+brokerage, $2M traditional IRA, $800K NSO and RSU equity from current CA-based
+employer (vesting through 2027), CA primary residence ($1.6M, mortgage $400K),
+small Toronto rental property. Considering Roth conversion of $200K. Map
+residency change strategy, allocation for equity comp during partial-year,
+Roth conversion timing relative to CA exit, and Toronto rental compliance.
+```
+
+```
+/compliance-tracker
+RIA, $400M AUM, retail + HNW. Mostly diversified ETFs, two private credit
+sleeves for HNW clients, growing use of AI tools in marketing emails. State
+of registration: CA + filed in 7 others. Question: what's hit our practice
+in the last 12 months and what's coming? Especially Marketing Rule,
+private-fund rules post-vacatur, and SECURE 2.0 catch-up Roth.
 ```
 
 ```
@@ -66,7 +89,7 @@ conversion.
 
 ## Disclaimer
 
-This output is a professional draft — verify all financial data and ensure compliance with your firm's regulatory requirements before client delivery.
+This output is a professional draft — verify all financial data and ensure compliance with your firm's regulatory requirements before client delivery. Tax and regulatory landscapes shift frequently — coordinate with your firm's Chief Compliance Officer, the client's tax professional, and qualified counsel for any actionable position.
 
 ## More resources
 

@@ -1,7 +1,7 @@
 {
   "name": "financial-advisor",
-  "description": "Build plan summaries, draft portfolio reviews, and prepare client meeting documentation",
-  "version": "1.0.0",
+  "description": "Plan summaries, portfolio reviews, tax-loss harvesting, ESG screens, regulatory tracking, and multi-jurisdiction tax",
+  "version": "1.1.0",
   "author": {
     "name": "The AI Career Lab",
     "email": "hello@theaicareerlab.com"
@@ -9,6 +9,6 @@
   "homepage": "https://theaicareerlab.com/professions/financial-advisor",
   "repository": "https://github.com/alexclowe/awesome-claude-cowork-plugins",
   "license": "MIT",
-  "keywords": ["finance", "financial-planning", "portfolio", "wealth-management", "advisory"],
+  "keywords": ["finance", "financial-planning", "portfolio", "wealth-management", "advisory", "tax-loss-harvesting", "esg", "compliance", "sec", "finra", "irs"],
   "category": "financial"
 }

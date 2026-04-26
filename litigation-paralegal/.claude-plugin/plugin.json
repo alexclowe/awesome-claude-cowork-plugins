@@ -1,0 +1,14 @@
+{
+  "name": "litigation-paralegal",
+  "description": "Summarize depositions, build case timelines, draft motions, and manage discovery holds",
+  "version": "1.0.0",
+  "author": {
+    "name": "The AI Career Lab",
+    "email": "hello@theaicareerlab.com"
+  },
+  "homepage": "https://theaicareerlab.com/professions/paralegal",
+  "repository": "https://github.com/alexclowe/awesome-claude-cowork-plugins",
+  "license": "MIT",
+  "keywords": ["legal", "litigation", "paralegal", "discovery", "depositions"],
+  "category": "legal"
+}

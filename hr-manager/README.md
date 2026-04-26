@@ -1,6 +1,6 @@
 # HR Manager Plugin
 
-AI-powered tools for HR professionals to streamline hiring, policy writing, onboarding, and employee communications.
+AI-powered tools for HR professionals to streamline hiring, policy writing, onboarding, employee communications, RTO rollouts, separation conversations, performance audits, and reskilling planning.
 
 ## Commands
 
@@ -10,11 +10,16 @@ AI-powered tools for HR professionals to streamline hiring, policy writing, onbo
 | `/policy-draft` | Draft clear employee policies with plain-language summaries |
 | `/onboarding-doc` | Create onboarding materials tailored to specific roles |
 | `/employee-email` | Write professional employee communications |
+| `/rto-comms` | Draft Return-to-Office policy and comms with manager talking points, FAQ, and accommodation handling |
+| `/severance-negotiation` | Guide severance conversations including OWBPA windows, negotiation levers, and separation-agreement red flags |
+| `/quiet-firing-detector` | Analyze performance reviews or PIPs for early separation signals and bias indicators |
+| `/audit-hiring-for-bias` | Audit a job description for bias and generate rewrite suggestions |
 
 ## Skills
 
 - **HR Operations** — Employment law, compliance frameworks, policy writing, disciplinary procedures, benefits administration
 - **Talent Acquisition** — Job description writing, DEI-inclusive language, ATS optimization, interview guides, onboarding best practices
+- **Reskilling Pathway Mapper** — Maps displaced roles to AI-resistant adjacent roles and reskilling pathways, with WARN-window planning
 
 ## Usage Examples
 
@@ -38,23 +43,44 @@ Industry Context: SaaS technology, 200 employees
 Key Requirements: Hybrid model with 2 days in office, equipment stipend...
 ```
 
-### Create an Onboarding Checklist
+### Roll Out a Return-to-Office Policy
 ```
-/onboarding-doc
-Document Type: Onboarding Checklist
-Role Name: Marketing Coordinator
-Department: Marketing
-Company Name: Acme Corp
-Role Details: Entry-level marketing role focused on content creation...
+/rto-comms
+Company: 800-person SaaS, currently 70% remote. New schedule: 3 days in-office
+(Tue/Wed/Thu) effective Q3. Reason: collaboration on new product line, mentorship
+gaps for junior staff. Need: formal policy, all-staff announcement, manager
+talking points, FAQ, and ADA accommodation flow. Especially sensitive: ~80
+employees were hired fully-remote and live >50 miles from any office.
 ```
 
-### Write a Benefits Update Email
+### Prepare a Severance Conversation
 ```
-/employee-email
-Email Purpose: Benefits Update
-Recipient Context: All full-time employees
-Key Details: New dental plan options available starting Q2...
-Tone: Conversational
+/severance-negotiation
+RIF affecting 12 roles, 8 of whom are 40+. Role: Senior Marketing Manager,
+age 54, 9 years tenure. Standard offer: 16 weeks severance, 4 months COBRA,
+neutral reference, 6 months outplacement. Need: prep for the conversation,
+expected reactions, OWBPA-compliant 45-day window setup, and red-flag audit
+of the separation agreement before delivery.
+```
+
+### Audit a Performance Review
+```
+/quiet-firing-detector
+Review the attached PIP for a 47-year-old senior engineer. She returned from
+FMLA leave 6 weeks ago. Prior 3 years of reviews were "exceeds expectations."
+The PIP cites "communication style," "executive presence," and "lack of
+energy in cross-functional meetings." No prior coaching documented. Goals
+include "demonstrate stronger executive presence" with no measurable criteria.
+[paste PIP text]
+```
+
+### Audit a Job Description for Bias
+```
+/audit-hiring-for-bias
+Audit this engineering manager JD. We've had 90% male applicant pool and
+want to broaden it. [paste full JD with degree requirements, 10+ years
+experience minimums, "rockstar," "fast-paced startup," and a long list of
+preferred qualifications]
 ```
 
 ## More resources

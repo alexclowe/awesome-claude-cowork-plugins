@@ -1,6 +1,6 @@
 # Attorney Plugin for Claude
 
-Draft client memos, demand letters, contract summaries, and billing narratives.
+Draft client memos, demand letters, contract summaries, motions, deposition summaries, case timelines, and AI regulatory risk memos.
 
 Built by [The AI Career Lab](https://theaicareerlab.com/professions/attorney) — AI tools, guides, and weekly digests designed specifically for attorneys.
 
@@ -12,6 +12,10 @@ Built by [The AI Career Lab](https://theaicareerlab.com/professions/attorney) �
 | `/demand-letter` | Generate demand letters with legal framework, factual basis, and remedy sought |
 | `/contract-summary` | Create contract review summaries highlighting key terms, obligations, risks, and unusual provisions |
 | `/billing-narrative` | Draft time entry narratives and billing descriptions for legal work |
+| `/deposition-summary` | Ingest a deposition transcript description, extract key admissions, build a topical index, and flag contradictions |
+| `/case-timeline` | Build a chronological case timeline from filings, discovery, and witness statements; flag discovery gaps |
+| `/motion-draft` | Template-driven motion drafting (MTD, MSJ, motions in limine) with citation slots and jurisdiction rules |
+| `/assess-ai-risk-client-systems` | Audit a client's AI deployment against EU AI Act high-risk categories, FINRA, and US state AI laws |
 
 ## Skills
 
@@ -19,47 +23,57 @@ This plugin includes skills that activate automatically when you're working on l
 
 - **Legal Practice** — Civil litigation, contract law, legal research methodology, rules of professional conduct, and legal citation format
 - **Client Communication** — Plain-language legal explanations, client-facing correspondence, and privilege-boundary awareness
+- **Litigation Workflow** — Civil litigation workflow expertise — case management, deposition prep, evidence chain, and Federal Rules of Evidence
+- **AI Regulatory Mapper** — Current AI regulatory landscape — EU AI Act, FINRA, FDA, US state AI laws — and client-system exposure mapping
 
 ## Usage examples
 
 ```
-/client-memo
-Intake memo for new PI case. Client was rear-ended at a stoplight on 1/15/2026.
-Other driver cited for following too closely. Client went to ER same day — diagnosed
-with cervical strain and lumbar disc herniation at L4-L5. Currently in PT 3x/week.
-Out of work for 6 weeks (teacher, salary $65K). Medical bills to date ~$18,000.
-Other driver's policy is State Farm, $100K/$300K limits.
+/deposition-summary
+Summarize the deposition of Robert Henderson, defendant project manager in
+Henderson v. Marcus Construction. Key portions: testimony at P 47:12-49:8 that
+he received the engineer's January 8 email warning about the foundation defect
+but "did not consider it a material concern"; testimony at P 88:3-90:21 that
+he had no further communication with the engineer until after the partial collapse;
+prior interrogatory response stated he "regularly consulted with the project engineer
+throughout the build." Flag contradictions and build a topical index by issue.
 ```
 
 ```
-/demand-letter
-Demand letter for breach of contract. Our client is a web development firm that
-completed a $45,000 website build per signed SOW. Client accepted final deliverables
-on 9/1/2025 but has failed to pay the final $22,500 milestone despite 3 written
-demands. Contract includes a prevailing party attorney's fees provision and
-1.5% monthly late fee.
+/case-timeline
+Build a litigation timeline for Sanchez v. Pacific Logistics, a wrongful termination
+matter in CA Superior Court (San Mateo). Sources: complaint filed 11/12/2025;
+plaintiff's hire date 3/4/2019; alleged protected complaint to HR 6/8/2025
+(documented in Bates SAN0001-0008); termination 8/15/2025 (Bates SAN0042);
+EEOC right-to-sue letter 10/3/2025; defendant's answer filed 12/14/2025 with
+affirmative defense of legitimate business reason (RIF). Flag discovery gaps
+and SOL exposure for the related public-policy tort claim.
 ```
 
 ```
-/contract-summary
-Review this commercial lease agreement for a retail client opening a second location.
-Key concerns: personal guarantee scope, CAM charges, exclusive use clause, assignment/
-subletting restrictions, and early termination provisions. Lease term is 5 years with
-two 5-year options. Base rent $4,200/mo with 3% annual escalations.
+/motion-draft
+Draft a motion for summary judgment in federal court (N.D. Cal.) on a breach
+of contract claim. We are defendant; plaintiff (a former vendor) alleges we
+breached a service agreement by terminating early. Operative facts: contract
+contained a 30-day termination-for-convenience clause (Section 8.2); we
+provided 32 days' written notice on 6/15/2025; payment for all services
+rendered through the termination date was made 7/22/2025. No genuine dispute
+on the contract terms or the notice. Include Local Rule 56-1 statement.
 ```
 
 ```
-/billing-narrative
-Billing entries for today's work on the Henderson v. Marcus Construction matter.
-Tasks: reviewed and analyzed 45 pages of discovery responses (1.5 hrs), drafted
-motion to compel with supporting memo (2.3 hrs), conference call with expert
-witness re: foundation repair opinions (0.5 hrs), email to client re: deposition
-scheduling (0.2 hrs).
+/assess-ai-risk-client-systems
+Risk memo for a client deploying an AI-driven candidate-screening tool.
+The system: ranks job applicants based on resume + structured assessment;
+used by a US-based client with operations in NYC, California, and Germany;
+output is advisory but routinely accepted by hiring managers without override;
+no current bias audit; no candidate notice. Map exposure across EU AI Act,
+NYC Local Law 144, EEOC, and Colorado AI Act. Identify priority actions.
 ```
 
 ## Disclaimer
 
-All content generated by this plugin is for drafting purposes only and requires review by a licensed attorney. It does not constitute legal advice or create an attorney-client relationship. The attorney is responsible for verifying all legal citations, ensuring accuracy of legal analysis, exercising independent professional judgment, and complying with applicable rules of professional conduct before use.
+All content generated by this plugin is for drafting purposes only and requires review by a licensed attorney. It does not constitute legal advice or create an attorney-client relationship. The attorney is responsible for verifying all legal citations (AI can produce plausible but nonexistent citations), ensuring accuracy of legal analysis, exercising independent professional judgment, and complying with applicable rules of professional conduct before use. AI law and litigation rules vary by jurisdiction and change frequently — verify current text before reliance.
 
 ## More resources
 

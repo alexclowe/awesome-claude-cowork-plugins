@@ -1,0 +1,14 @@
+{
+  "name": "data-scientist",
+  "description": "Design experiments, profile datasets, build models, and audit them for bias before shipping",
+  "version": "1.0.0",
+  "author": {
+    "name": "The AI Career Lab",
+    "email": "hello@theaicareerlab.com"
+  },
+  "homepage": "https://theaicareerlab.com/professions/data-scientist",
+  "repository": "https://github.com/alexclowe/awesome-claude-cowork-plugins",
+  "license": "MIT",
+  "keywords": ["data-science", "machine-learning", "experiments", "model-cards", "bias-audit"],
+  "category": "tech"
+}
