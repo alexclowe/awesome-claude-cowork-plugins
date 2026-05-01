@@ -65,7 +65,7 @@ This output is a professional draft — verify all financial data and consult wi
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for bookkeepers: https://theaicareerlab.com/professions/bookkeeper
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-bookkeeper
-- **The Accountant Claude Vault** — 50 prompts, full Project setup, compliance-aware document templates. The done-for-you premium version of this workflow, $39 one-time: https://clowealex.gumroad.com/l/wmxzs
+- **The Bookkeeper Claude Vault** — 50 skills with a hard CPA boundary for monthly close, reconciliations, and client comms. The done-for-you version of this workflow, $29 one-time: https://clowealex.gumroad.com/l/jklwoz?ref=plugin-bookkeeper
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=bookkeeper
 - **Weekly AI Digest** — Curated AI updates for bookkeepers: https://theaicareerlab.com/newsletter
 

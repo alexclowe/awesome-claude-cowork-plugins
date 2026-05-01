@@ -85,13 +85,10 @@ preferred qualifications]
 
 ## More resources
 
-- **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for hr managers: https://theaicareerlab.com/professions/hr-manager
+- **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for HR managers: https://theaicareerlab.com/professions/hr-manager
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-hr-manager
+- **HR Manager Claude Vault — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/hr-manager
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=hr-manager
-- **Weekly AI Digest** — Curated AI updates for hr managers: https://theaicareerlab.com/newsletter
+- **Weekly AI Digest** — Curated AI updates for HR managers: https://theaicareerlab.com/newsletter
 
 > **Want a quick win without installing this plugin?** [The free web tools](https://theaicareerlab.com/professions/hr-manager) on AI Career Lab give you five runs a day on a free account — no credit card required.
-
-### Recommended tools we partner with
-
-- **[Synthesia](https://www.synthesia.io/?via=alex-lowe)** — Create professional training videos with AI avatars — no camera, no crew, no studio. _Free trial._ → [Create Free AI Video](https://www.synthesia.io/?via=alex-lowe)

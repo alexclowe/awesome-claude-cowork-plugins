@@ -95,6 +95,7 @@ This output is a professional draft — verify all financial data and ensure com
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for financial advisors: https://theaicareerlab.com/professions/financial-advisor
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-financial-advisor
+- **Financial Advisor Claude Vault — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/financial-advisor
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=financial-advisor
 - **Weekly AI Digest** — Curated AI updates for financial advisors: https://theaicareerlab.com/newsletter
 

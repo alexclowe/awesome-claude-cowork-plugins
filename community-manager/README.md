@@ -59,6 +59,7 @@ This plugin generates moderation drafts, onboarding copy, and engagement recomme
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for community managers: https://theaicareerlab.com/professions/community-manager
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-community-manager
+- **Community Manager Claude Vault — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/community-manager
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=community-manager
 - **Weekly AI Digest** — Curated AI updates for community managers: https://theaicareerlab.com/newsletter
 

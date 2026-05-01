@@ -67,6 +67,7 @@ All content generated with this plugin is a professional draft requiring attorne
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for paralegals: https://theaicareerlab.com/professions/paralegal
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-paralegal
+- **Paralegal Claude Vault — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/paralegal
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=paralegal
 - **Weekly AI Digest** — Curated AI updates for paralegals: https://theaicareerlab.com/newsletter
 

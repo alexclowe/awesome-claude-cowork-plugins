@@ -58,6 +58,7 @@ Outputs from this plugin are drafts intended for designer review. Brand guidelin
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for designers: https://theaicareerlab.com/professions/designer
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-designer
+- **Designer Claude Vault — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/designer
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=designer
 - **Weekly AI Digest** — Curated AI updates for designers: https://theaicareerlab.com/newsletter
 

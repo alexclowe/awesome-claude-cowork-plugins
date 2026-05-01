@@ -59,8 +59,9 @@ This plugin generates drafts for product manager review. AI risk classifications
 
 ## More resources
 
-- **Profession hub** — Free tools, guides, and pillar guide for AI product managers: https://theaicareerlab.com/professions/product-manager-ai
+- **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for AI product managers: https://theaicareerlab.com/professions/product-manager-ai
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-product-manager-ai
+- **AI Product Manager Claude Vault — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/product-manager-ai
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=product-manager-ai
 - **Weekly AI Digest** — Curated AI updates for AI product managers: https://theaicareerlab.com/newsletter
 

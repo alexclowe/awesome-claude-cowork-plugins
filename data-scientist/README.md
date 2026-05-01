@@ -57,8 +57,9 @@ Statistical analyses, model recommendations, and bias audits produced by this pl
 
 ## More resources
 
-- **Profession hub** — Free tools, guides, and pillar guide: https://theaicareerlab.com/professions/data-scientist
+- **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for data scientists: https://theaicareerlab.com/professions/data-scientist
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-data-scientist
+- **Data Scientist Claude Vault — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/data-scientist
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=data-scientist
 - **Weekly AI Digest** — Curated AI updates for data scientists: https://theaicareerlab.com/newsletter
 

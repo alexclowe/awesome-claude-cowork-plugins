@@ -68,6 +68,7 @@ This output is a professional draft — review and customize before client deliv
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for management consultants: https://theaicareerlab.com/professions/management-consultant
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-management-consultant
+- **Management Consultant Claude Vault — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/management-consultant
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=management-consultant
 - **Weekly AI Digest** — Curated AI updates for management consultants: https://theaicareerlab.com/newsletter
 

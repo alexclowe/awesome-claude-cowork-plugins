@@ -58,11 +58,8 @@ Need: top 5 priorities, what to delegate, what can wait, and a suggested order o
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for executive assistants: https://theaicareerlab.com/professions/executive-assistant
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-executive-assistant
+- **Executive Assistant Claude Vault — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/executive-assistant
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=executive-assistant
 - **Weekly AI Digest** — Curated AI updates for executive assistants: https://theaicareerlab.com/newsletter
 
 > **Want a quick win without installing this plugin?** [The free web tools](https://theaicareerlab.com/professions/executive-assistant) on AI Career Lab give you five runs a day on a free account — no credit card required.
-
-### Recommended tools we partner with
-
-- **[Scribe](http://www.scribe.com/lp/home?via=alex-lowe)** — Auto-generate step-by-step process documentation and SOPs from any workflow you demonstrate. _Free plan available._ → [Try Scribe Free](http://www.scribe.com/lp/home?via=alex-lowe)

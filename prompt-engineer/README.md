@@ -56,8 +56,9 @@ This plugin produces drafts of evaluation rubrics, test cases, and statistical a
 
 ## More resources
 
-- **Profession hub** — Free tools, guides, and pillar guide: https://theaicareerlab.com/professions/prompt-engineer
+- **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for prompt engineers: https://theaicareerlab.com/professions/prompt-engineer
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-prompt-engineer
+- **Prompt Engineer Claude Vault — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/prompt-engineer
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=prompt-engineer
 - **Weekly AI Digest** — Curated AI updates for prompt engineers: https://theaicareerlab.com/newsletter
 

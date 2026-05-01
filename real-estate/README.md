@@ -69,12 +69,8 @@ This output is a professional draft — verify all property details, MLS complia
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for real estate agents: https://theaicareerlab.com/professions/real-estate
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-real-estate
-- **The Real Estate Agent Claude Vault** — 50 prompts, full Project setup, fair-housing templates. The done-for-you version of this workflow, $29 one-time: https://clowealex.gumroad.com/l/cqvdol
+- **The Real Estate Agent Claude Vault** — 50 skills for listings, client emails, CMAs, and open houses — fair-housing-aware out of the box. The done-for-you version of this workflow, $29 one-time: https://clowealex.gumroad.com/l/cqvdol?ref=plugin-real-estate
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=real-estate
 - **Weekly AI Digest** — Curated AI updates for real estate agents: https://theaicareerlab.com/newsletter
 
 > **Want a quick win without installing this plugin?** [The free web tools](https://theaicareerlab.com/professions/real-estate) on AI Career Lab give you five runs a day on a free account — no credit card required.
-
-### Recommended tools we partner with
-
-- **[CustomGPT.ai](https://customgpt.ai/?fpr=alex53)** — Build a custom AI chatbot trained on your content, listings, or client database in minutes. _Free trial._ → [Build Your AI Chatbot](https://customgpt.ai/?fpr=alex53)

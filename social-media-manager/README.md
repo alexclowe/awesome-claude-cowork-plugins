@@ -89,11 +89,8 @@ This output is a professional draft — review and customize for each client's b
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for social media managers: https://theaicareerlab.com/professions/social-media-manager
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-social-media-manager
+- **The Social Media Manager Claude Vault** — 29 skills + 8 starter cartridges + a 1-input repurposing engine that turns one source into 6 platform variants. Voice-bleed guard included. The done-for-you version of this workflow, $39 one-time: https://clowealex.gumroad.com/l/nxlot?ref=plugin-social-media-manager
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=social-media-manager
 - **Weekly AI Digest** — Curated AI updates for social media managers: https://theaicareerlab.com/newsletter
 
 > **Want a quick win without installing this plugin?** [The free web tools](https://theaicareerlab.com/professions/social-media-manager) on AI Career Lab give you five runs a day on a free account — no credit card required.
-
-### Recommended tools we partner with
-
-- **[SocialPilot](https://www.socialpilot.co/?fp_ref=3e58ji)** — Schedule posts, manage analytics, and collaborate with clients across all social platforms. _14-day free trial._ → [Try SocialPilot Free](https://www.socialpilot.co/?fp_ref=3e58ji)
