@@ -1,4 +1,5 @@
 ---
+name: clinical-pharmacy
 description: Clinical pharmacy expertise for medication therapy, drug information, and pharmacy practice
 ---
 

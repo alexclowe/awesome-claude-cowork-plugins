@@ -1,4 +1,5 @@
 ---
+name: visual-storytelling
 description: Shot composition guidance, album narrative structure, and brand photography direction
 ---
 

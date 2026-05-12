@@ -1,4 +1,5 @@
 ---
+name: visual-design-brief
 description: Designer-ready visual brief expertise — layout, palette, type, mood, and motion notes for handoff to Claude Design or a designer
 ---
 

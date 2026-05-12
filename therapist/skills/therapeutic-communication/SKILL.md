@@ -1,4 +1,5 @@
 ---
+name: therapeutic-communication
 description: Empathetic clinical writing, health literacy adaptation, and crisis sensitivity
 ---
 

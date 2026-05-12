@@ -1,4 +1,5 @@
 ---
+name: conversion-psychology
 description: Persuasion and conversion expertise — auto-activates on copywriting tasks to apply evidence-based behavioral principles
 ---
 

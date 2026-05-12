@@ -1,4 +1,5 @@
 ---
+name: real-estate-marketing
 description: MLS listing writing, social media marketing, and Fair Housing Act compliance for real estate
 ---
 

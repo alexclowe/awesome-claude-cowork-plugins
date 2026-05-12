@@ -1,4 +1,5 @@
 ---
+name: veterinary-medicine
 description: Clinical documentation, diagnostics, pharmacology, treatment protocols, and species-specific medical knowledge
 ---
 

@@ -1,4 +1,5 @@
 ---
+name: skill-benchmarking
 description: Skill and prompt benchmarking expertise for measuring latency, accuracy, token cost, and token-budget compliance across variants
 ---
 

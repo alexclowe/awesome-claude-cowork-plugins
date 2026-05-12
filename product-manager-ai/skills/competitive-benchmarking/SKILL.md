@@ -1,4 +1,5 @@
 ---
+name: competitive-benchmarking
 description: Competitive intelligence for AI product launches — auto-activates when benchmarking AI features, pricing, or positioning
 ---
 

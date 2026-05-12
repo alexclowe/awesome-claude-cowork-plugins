@@ -1,4 +1,5 @@
 ---
+name: event-design
 description: Event concept development, logistics planning, vendor coordination, budget management, and timeline creation
 ---
 

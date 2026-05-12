@@ -1,4 +1,5 @@
 ---
+name: clinical-mental-health
 description: DSM-5 diagnostic criteria, evidence-based therapy modalities, treatment planning, and progress measurement
 ---
 

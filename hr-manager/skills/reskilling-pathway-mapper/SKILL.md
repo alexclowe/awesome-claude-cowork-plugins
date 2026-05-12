@@ -1,4 +1,5 @@
 ---
+name: reskilling-pathway-mapper
 description: Reskilling pathway mapper — given a displaced role, map AI-resistant adjacent roles and learning paths
 ---
 

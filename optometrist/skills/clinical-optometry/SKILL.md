@@ -1,4 +1,5 @@
 ---
+name: clinical-optometry
 description: Clinical optometry expertise for eye examination, ocular disease, contact lens fitting, and ophthalmic coding
 ---
 

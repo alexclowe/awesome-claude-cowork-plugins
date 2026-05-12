@@ -1,4 +1,5 @@
 ---
+name: clinical-nursing
 description: Nursing assessment, NANDA-I taxonomy, NIC/NOC classification, medication administration documentation, and vital signs interpretation
 ---
 

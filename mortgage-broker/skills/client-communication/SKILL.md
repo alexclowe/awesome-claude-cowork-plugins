@@ -1,4 +1,5 @@
 ---
+name: client-communication
 description: Borrower education, rate explanations, closing process walkthroughs, and milestone updates
 ---
 

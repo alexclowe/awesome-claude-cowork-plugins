@@ -1,4 +1,5 @@
 ---
+name: carbon-accounting-automation
 description: Carbon accounting expertise — auto-activates on Scope 1/2/3 calculation and GHG inventory tasks
 ---
 

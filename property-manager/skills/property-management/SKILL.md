@@ -1,4 +1,5 @@
 ---
+name: property-management
 description: Property management expertise including fair housing law, lease administration, HOA governance, and vendor management
 ---
 

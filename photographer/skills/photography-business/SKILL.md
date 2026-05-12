@@ -1,4 +1,5 @@
 ---
+name: photography-business
 description: Pricing strategies, proposal writing, contracts, client management, and studio operations
 ---
 

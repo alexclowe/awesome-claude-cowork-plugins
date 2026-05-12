@@ -1,4 +1,5 @@
 ---
+name: stakeholder-communication
 description: Owner reports, subcontractor coordination, RFI responses, and meeting documentation
 ---
 

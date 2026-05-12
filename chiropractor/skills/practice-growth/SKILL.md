@@ -1,4 +1,5 @@
 ---
+name: practice-growth
 description: Chiropractic practice marketing, patient communication, content strategy, and healthcare advertising compliance
 ---
 

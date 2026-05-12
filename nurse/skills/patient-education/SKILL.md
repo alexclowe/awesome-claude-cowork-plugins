@@ -1,4 +1,5 @@
 ---
+name: patient-education
 description: Health literacy-adapted materials, teach-back method guidance, and discharge instructions
 ---
 

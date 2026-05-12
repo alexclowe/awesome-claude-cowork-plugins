@@ -1,4 +1,5 @@
 ---
+name: classroom-ai-ethics
 description: Classroom AI ethics — FERPA, COPPA, age-appropriate AI literacy framing, bias-discussion frameworks
 ---
 

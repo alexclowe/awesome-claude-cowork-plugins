@@ -1,4 +1,5 @@
 ---
+name: community-health-monitoring
 description: Community health monitoring expertise — auto-activates on engagement, retention, and churn-prediction tasks
 ---
 

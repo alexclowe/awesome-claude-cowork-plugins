@@ -1,4 +1,5 @@
 ---
+name: high-risk-classification
 description: Auto-detect EU AI Act Annex III categories and US-state high-risk equivalents for any described AI system
 ---
 

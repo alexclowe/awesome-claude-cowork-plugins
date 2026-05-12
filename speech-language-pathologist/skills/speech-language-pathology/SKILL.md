@@ -1,4 +1,5 @@
 ---
+name: speech-language-pathology
 description: Articulation, phonology, language disorders, fluency, voice, AAC, dysphagia, and cognitive-communication expertise
 ---
 

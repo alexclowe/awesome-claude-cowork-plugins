@@ -1,4 +1,5 @@
 ---
+name: strategic-analysis
 description: Management consulting frameworks, structured problem-solving, and analytical thinking
 ---
 

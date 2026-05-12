@@ -1,4 +1,5 @@
 ---
+name: financial-planning
 description: Financial planning knowledge for retirement, education, estate, tax, and insurance needs analysis
 ---
 

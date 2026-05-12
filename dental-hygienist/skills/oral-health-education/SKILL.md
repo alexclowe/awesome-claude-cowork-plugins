@@ -1,4 +1,5 @@
 ---
+name: oral-health-education
 description: Patient communication about oral health using motivational interviewing, age-appropriate education, and culturally sensitive messaging
 ---
 

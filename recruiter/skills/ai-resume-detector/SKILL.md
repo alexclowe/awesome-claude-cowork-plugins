@@ -1,4 +1,5 @@
 ---
+name: ai-resume-detector
 description: Pattern recognition for LLM-generated resume text — sentence length variance, em-dash density, and generic accomplishment phrasing
 ---
 

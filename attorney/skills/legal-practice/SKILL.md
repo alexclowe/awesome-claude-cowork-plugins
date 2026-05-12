@@ -1,4 +1,5 @@
 ---
+name: legal-practice
 description: Civil litigation, contract law, legal research methodology, rules of professional conduct, and legal citation format
 ---
 

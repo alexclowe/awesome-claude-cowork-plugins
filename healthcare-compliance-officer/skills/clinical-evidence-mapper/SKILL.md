@@ -1,4 +1,5 @@
 ---
+name: clinical-evidence-mapper
 description: Map clinical study data to FDA Substantial Equivalence and clinical performance criteria for AI-enabled medical devices
 ---
 

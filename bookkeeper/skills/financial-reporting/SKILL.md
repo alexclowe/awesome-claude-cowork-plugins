@@ -1,4 +1,5 @@
 ---
+name: financial-reporting
 description: Financial statement preparation, analysis, and plain-language explanation for small business owners
 ---
 

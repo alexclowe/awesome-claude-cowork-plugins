@@ -1,4 +1,5 @@
 ---
+name: clinical-nutrition
 description: Medical nutrition therapy, macronutrient calculations, lab interpretation, dietary guidelines, and condition-specific protocols
 ---
 

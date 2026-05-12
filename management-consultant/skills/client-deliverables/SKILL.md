@@ -1,4 +1,5 @@
 ---
+name: client-deliverables
 description: Creating polished, client-facing consulting documents and presentations
 ---
 

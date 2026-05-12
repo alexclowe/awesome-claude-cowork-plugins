@@ -1,4 +1,5 @@
 ---
+name: evidence-relevance-checker
 description: Federal Rules of Evidence expertise — auto-activates when assessing admissibility for depositions or trial
 ---
 

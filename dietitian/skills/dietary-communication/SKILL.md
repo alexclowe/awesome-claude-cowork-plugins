@@ -1,4 +1,5 @@
 ---
+name: dietary-communication
 description: Client education, meal planning communication, behavior change counseling, and motivational strategies
 ---
 

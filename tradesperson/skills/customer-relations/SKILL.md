@@ -1,4 +1,5 @@
 ---
+name: customer-relations
 description: Professional trade communication, estimate presentation, warranty explanation, and upsell framing
 ---
 

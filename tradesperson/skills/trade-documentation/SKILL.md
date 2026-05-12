@@ -1,4 +1,5 @@
 ---
+name: trade-documentation
 description: Building code awareness, permit references, industry terminology for plumbing, electrical, HVAC, and safety documentation
 ---
 

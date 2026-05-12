@@ -1,4 +1,5 @@
 ---
+name: suicide-risk-assessment-protocol
 description: Suicide risk assessment using the Columbia Protocol (C-SSRS) and SAFE-T framework — auto-prompts when warning indicators appear
 ---
 

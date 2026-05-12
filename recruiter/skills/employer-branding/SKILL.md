@@ -1,4 +1,5 @@
 ---
+name: employer-branding
 description: Employer branding expertise for EVP communication, DEI-inclusive language, and candidate experience
 ---
 

@@ -1,4 +1,5 @@
 ---
+name: exercise-science
 description: Exercise science expertise for program design, periodization, biomechanics, and evidence-based training methodology
 ---
 

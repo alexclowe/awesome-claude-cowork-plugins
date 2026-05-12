@@ -1,4 +1,5 @@
 ---
+name: brand-voice-design
 description: Brand voice and visual identity expertise — auto-activates on designer tasks to resist generic AI defaults
 ---
 

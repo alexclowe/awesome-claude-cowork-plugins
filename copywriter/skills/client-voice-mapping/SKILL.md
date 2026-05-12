@@ -1,4 +1,5 @@
 ---
+name: client-voice-mapping
 description: Brand voice extraction expertise — auto-activates on copywriting tasks to capture and replicate client tone
 ---
 

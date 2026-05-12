@@ -1,4 +1,5 @@
 ---
+name: dataset-profiling
 description: Dataset profiling expertise — auto-scans for missing values, outliers, class imbalance, correlation issues, and schema drift
 ---
 

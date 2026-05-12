@@ -1,4 +1,5 @@
 ---
+name: client-retention
 description: Insurance client relationship management, retention strategies, and cross-selling approaches
 ---
 

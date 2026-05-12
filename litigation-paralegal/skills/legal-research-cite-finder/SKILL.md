@@ -1,4 +1,5 @@
 ---
+name: legal-research-cite-finder
 description: Legal research expertise — auto-activates when locating cases, statutes, and procedural rules for litigation tasks
 ---
 

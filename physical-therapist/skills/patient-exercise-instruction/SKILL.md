@@ -1,4 +1,5 @@
 ---
+name: patient-exercise-instruction
 description: Writing clear, safe exercise instructions adapted to patient literacy levels and functional abilities
 ---
 

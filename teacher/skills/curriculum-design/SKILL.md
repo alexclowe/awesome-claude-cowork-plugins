@@ -1,4 +1,5 @@
 ---
+name: curriculum-design
 description: Curriculum design expertise for lesson planning, standards alignment, and instructional frameworks
 ---
 

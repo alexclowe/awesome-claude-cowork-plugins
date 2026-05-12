@@ -1,4 +1,5 @@
 ---
+name: moderation-audit-trail
 description: Moderation audit trail expertise — auto-activates on compliance logging and escalation documentation tasks
 ---
 

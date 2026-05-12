@@ -1,4 +1,5 @@
 ---
+name: hr-operations
 description: HR operations, employment law, policy writing, compliance frameworks
 ---
 

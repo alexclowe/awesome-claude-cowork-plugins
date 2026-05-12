@@ -1,4 +1,5 @@
 ---
+name: talent-acquisition
 description: Talent acquisition expertise for sourcing strategy, candidate evaluation, structured hiring, and employment law awareness
 ---
 

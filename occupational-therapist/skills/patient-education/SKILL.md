@@ -1,4 +1,5 @@
 ---
+name: patient-education
 description: Home program instructions, caregiver training materials, and adaptive equipment recommendations
 ---
 

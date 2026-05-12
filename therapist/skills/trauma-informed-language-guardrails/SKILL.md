@@ -1,4 +1,5 @@
 ---
+name: trauma-informed-language-guardrails
 description: Trauma-informed language guardrails — flag re-traumatizing phrasing and suggest SAMHSA-aligned alternatives
 ---
 

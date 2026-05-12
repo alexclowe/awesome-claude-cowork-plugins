@@ -1,4 +1,5 @@
 ---
+name: sales-strategy
 description: Consultative selling, MEDDIC/BANT frameworks, value-based positioning, objection handling, and pipeline management
 ---
 

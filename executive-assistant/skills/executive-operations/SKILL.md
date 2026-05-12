@@ -1,4 +1,5 @@
 ---
+name: executive-operations
 description: Executive operations, calendar management, travel coordination, expense workflows
 ---
 

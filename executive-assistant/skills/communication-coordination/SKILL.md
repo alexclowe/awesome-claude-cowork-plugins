@@ -1,4 +1,5 @@
 ---
+name: communication-coordination
 description: Professional communication, email management, stakeholder coordination, follow-up systems
 ---
 

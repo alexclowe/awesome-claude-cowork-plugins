@@ -1,4 +1,5 @@
 ---
+name: ghost-job-detection
 description: Auto-activates ghost-job red-flag detection on job postings, ATS pipeline indicators, and pay-transparency gaps
 ---
 

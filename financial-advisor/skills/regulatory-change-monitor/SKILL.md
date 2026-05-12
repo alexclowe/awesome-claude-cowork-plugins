@@ -1,4 +1,5 @@
 ---
+name: regulatory-change-monitor
 description: Regulatory change monitor — current SEC, FINRA, IRS landscape with effective dates; flags advice impacted by recent changes
 ---
 

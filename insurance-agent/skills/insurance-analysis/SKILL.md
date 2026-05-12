@@ -1,4 +1,5 @@
 ---
+name: insurance-analysis
 description: Insurance policy analysis across P&C, life, health, and commercial lines
 ---
 

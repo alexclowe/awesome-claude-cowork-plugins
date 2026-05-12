@@ -1,4 +1,5 @@
 ---
+name: regulatory-standard-mapping
 description: Regulatory standard mapping expertise — auto-activates on ESG framework alignment and disclosure mapping tasks
 ---
 

@@ -1,4 +1,5 @@
 ---
+name: social-content-creation
 description: Platform-specific social media content expertise and content creation best practices
 ---
 

@@ -1,4 +1,5 @@
 ---
+name: legal-research
 description: Legal research expertise including case analysis, statutory interpretation, and IRAC methodology
 ---
 

@@ -1,4 +1,5 @@
 ---
+name: design-client-management
 description: Client management expertise for interior design proposals, scope management, and project communication
 ---
 

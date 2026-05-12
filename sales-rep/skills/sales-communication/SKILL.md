@@ -1,4 +1,5 @@
 ---
+name: sales-communication
 description: Professional persuasive writing, personalization, urgency without pressure, and CTA best practices
 ---
 

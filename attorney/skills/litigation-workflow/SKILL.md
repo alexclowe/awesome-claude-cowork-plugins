@@ -1,4 +1,5 @@
 ---
+name: litigation-workflow
 description: Civil litigation workflow expertise — case management, deposition prep, evidence chain, and Federal Rules of Evidence
 ---
 

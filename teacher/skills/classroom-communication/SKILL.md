@@ -1,4 +1,5 @@
 ---
+name: classroom-communication
 description: Effective classroom communication for parent partnerships, student feedback, and inclusive documentation
 ---
 

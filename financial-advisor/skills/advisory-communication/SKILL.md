@@ -1,4 +1,5 @@
 ---
+name: advisory-communication
 description: Client advisory communication with fiduciary tone, compliance-friendly language, and plain-language financial education
 ---
 

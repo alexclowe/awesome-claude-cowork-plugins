@@ -1,4 +1,5 @@
 ---
+name: educational-documentation
 description: IEP writing, IDEA compliance, SMART goal frameworks, progress monitoring methods, and parent-friendly reporting
 ---
 

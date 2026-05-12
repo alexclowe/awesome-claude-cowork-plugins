@@ -1,4 +1,5 @@
 ---
+name: client-management
 description: Proposal writing, expectation management, change communication, and post-event reporting
 ---
 

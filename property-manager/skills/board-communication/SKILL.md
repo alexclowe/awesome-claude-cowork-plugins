@@ -1,4 +1,5 @@
 ---
+name: board-communication
 description: Professional board reporting, financial presentation, compliance documentation, and resident communication
 ---
 

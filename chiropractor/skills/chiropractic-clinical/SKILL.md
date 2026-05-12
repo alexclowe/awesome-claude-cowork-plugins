@@ -1,4 +1,5 @@
 ---
+name: chiropractic-clinical
 description: Chiropractic clinical expertise including musculoskeletal assessment, spinal biomechanics, diagnostic imaging, and evidence-based guidelines
 ---
 

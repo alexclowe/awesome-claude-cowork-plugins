@@ -1,4 +1,5 @@
 ---
+name: clinical-dental-hygiene
 description: Clinical dental hygiene expertise including periodontal assessment, AAP classification, CDT coding, and dental pharmacology
 ---
 

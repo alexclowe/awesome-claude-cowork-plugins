@@ -1,4 +1,5 @@
 ---
+name: talent-acquisition
 description: Talent acquisition, job descriptions, DEI-inclusive language, onboarding
 ---
 

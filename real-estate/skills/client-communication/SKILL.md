@@ -1,4 +1,5 @@
 ---
+name: client-communication
 description: Real estate client relationship communication for buyers, sellers, and leads
 ---
 

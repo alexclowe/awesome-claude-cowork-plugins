@@ -1,4 +1,5 @@
 ---
+name: platform-native-voice
 description: Auto-adapts tone to platform norms — LinkedIn professional, X witty, TikTok conversational, Threads candid
 ---
 

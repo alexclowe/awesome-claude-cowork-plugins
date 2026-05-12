@@ -1,4 +1,5 @@
 ---
+name: ai-readiness-assessment
 description: AI infrastructure and governance readiness — auto-activates when scoping or launching AI features
 ---
 

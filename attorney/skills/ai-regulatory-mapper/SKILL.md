@@ -1,4 +1,5 @@
 ---
+name: ai-regulatory-mapper
 description: Current AI regulatory landscape — EU AI Act, FINRA, FDA, US state AI laws — and client-system exposure mapping
 ---
 

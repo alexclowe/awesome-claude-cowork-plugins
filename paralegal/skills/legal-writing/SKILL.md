@@ -1,4 +1,5 @@
 ---
+name: legal-writing
 description: Legal writing expertise including contract drafting, legal memoranda, discovery, and correspondence
 ---
 

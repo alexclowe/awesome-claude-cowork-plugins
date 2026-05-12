@@ -1,4 +1,5 @@
 ---
+name: social-analytics
 description: Social media metrics, analytics interpretation, and performance reporting expertise
 ---
 

@@ -1,4 +1,5 @@
 ---
+name: prompt-optimization-loop
 description: Prompt-engineering expertise for designing test cases, edge cases, adversarial inputs, and iterating on prompts based on eval results
 ---
 

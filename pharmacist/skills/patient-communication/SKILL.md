@@ -1,4 +1,5 @@
 ---
+name: patient-communication
 description: Patient-centered medication communication adapted to health literacy levels
 ---
 

@@ -1,4 +1,5 @@
 ---
+name: fitness-business
 description: Business strategies for client retention, pricing, marketing, and growth for solo fitness professionals
 ---
 

@@ -1,4 +1,5 @@
 ---
+name: post-market-monitoring
 description: Ingest AI-system incident reports, cluster failure patterns, and generate FDA/EU-style remediation recommendations
 ---
 

@@ -1,4 +1,5 @@
 ---
+name: rehabilitation-medicine
 description: Musculoskeletal and neurological rehabilitation expertise for physical therapy documentation and clinical reasoning
 ---
 

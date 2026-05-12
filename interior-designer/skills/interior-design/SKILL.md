@@ -1,4 +1,5 @@
 ---
+name: interior-design
 description: Interior design expertise for space planning, material specification, and design documentation
 ---
 

@@ -1,4 +1,5 @@
 ---
+name: model-card-generation
 description: Model card generation expertise — auto-generates Model Cards covering intended use, limitations, and training data provenance per the HuggingFace and Mitchell et al. standard
 ---
 

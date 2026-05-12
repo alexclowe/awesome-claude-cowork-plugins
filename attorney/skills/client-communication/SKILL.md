@@ -1,4 +1,5 @@
 ---
+name: client-communication
 description: Plain-language legal explanations, client-facing correspondence, and privilege-boundary awareness
 ---
 
