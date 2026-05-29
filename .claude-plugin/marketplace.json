@@ -13,7 +13,6 @@
       "name": "ai-compliance-officer",
       "source": "./ai-compliance-officer",
       "description": "Audit AI systems, generate compliance docs, track regulatory change, and evaluate autonomous agents",
-      "version": "1.0.0",
       "category": "compliance",
       "tags": [
         "compliance",
@@ -27,7 +26,6 @@
       "name": "attorney",
       "source": "./attorney",
       "description": "Draft memos, demand letters, contracts, motions, deposition summaries, case timelines, and AI risk memos",
-      "version": "1.1.0",
       "category": "legal",
       "tags": [
         "legal",
@@ -46,7 +44,6 @@
       "name": "bookkeeper",
       "source": "./bookkeeper",
       "description": "Draft financial summaries, prepare reconciliation reports, and generate client communications",
-      "version": "1.0.0",
       "category": "financial",
       "tags": [
         "finance",
@@ -60,7 +57,6 @@
       "name": "chiropractor",
       "source": "./chiropractor",
       "description": "Chart SOAP notes, draft medical necessity letters, and generate practice marketing content",
-      "version": "1.0.0",
       "category": "healthcare",
       "tags": [
         "healthcare",
@@ -74,7 +70,6 @@
       "name": "community-manager",
       "source": "./community-manager",
       "description": "Moderate communities, onboard members, surface sentiment trends, and run event workflows",
-      "version": "1.0.0",
       "category": "business",
       "tags": [
         "community",
@@ -88,7 +83,6 @@
       "name": "construction-pm",
       "source": "./construction-pm",
       "description": "Create project estimates, change orders, progress reports, and RFI responses for construction project management",
-      "version": "1.0.0",
       "category": "trades",
       "tags": [
         "construction",
@@ -102,7 +96,6 @@
       "name": "copywriter",
       "source": "./copywriter",
       "description": "Capture client voice, generate variations, gate output through approval workflows, stay employed in the AI era",
-      "version": "1.0.0",
       "category": "design",
       "tags": [
         "copywriter",
@@ -116,7 +109,6 @@
       "name": "data-scientist",
       "source": "./data-scientist",
       "description": "Design experiments, profile datasets, build models, and audit them for bias before shipping",
-      "version": "1.0.0",
       "category": "tech",
       "tags": [
         "data-science",
@@ -130,7 +122,6 @@
       "name": "dental-hygienist",
       "source": "./dental-hygienist",
       "description": "Document periodontal findings, write insurance narratives, and create patient education materials",
-      "version": "1.0.0",
       "category": "healthcare",
       "tags": [
         "healthcare",
@@ -144,7 +135,6 @@
       "name": "designer",
       "source": "./designer",
       "description": "Build AI-augmented design systems, critique designs, batch iterations, and ship dev-ready handoff specs",
-      "version": "1.0.0",
       "category": "design",
       "tags": [
         "design",
@@ -158,7 +148,6 @@
       "name": "dietitian",
       "source": "./dietitian",
       "description": "Generate nutrition assessments, meal plans, progress notes, and client education materials for dietitians",
-      "version": "1.0.0",
       "category": "wellness",
       "tags": [
         "nutrition",
@@ -172,7 +161,6 @@
       "name": "esg-sustainability-analyst",
       "source": "./esg-sustainability-analyst",
       "description": "Extract ESG data, score risk, draft disclosures, and benchmark sustainability performance",
-      "version": "1.0.0",
       "category": "compliance",
       "tags": [
         "esg",
@@ -186,7 +174,6 @@
       "name": "event-planner",
       "source": "./event-planner",
       "description": "Create event proposals, vendor outreach, day-of timelines, and client updates for event planning",
-      "version": "1.0.0",
       "category": "events",
       "tags": [
         "events",
@@ -200,7 +187,6 @@
       "name": "executive-assistant",
       "source": "./executive-assistant",
       "description": "Triage inboxes, prep meetings, and draft follow-ups that keep executives moving",
-      "version": "1.0.0",
       "category": "business",
       "tags": [
         "business",
@@ -214,7 +200,6 @@
       "name": "financial-advisor",
       "source": "./financial-advisor",
       "description": "Plan summaries, portfolio reviews, tax-loss harvesting, ESG screens, regulatory tracking, and multi-jurisdiction tax",
-      "version": "1.1.0",
       "category": "financial",
       "tags": [
         "finance",
@@ -234,7 +219,6 @@
       "name": "healthcare-compliance-officer",
       "source": "./healthcare-compliance-officer",
       "description": "Validate AI medical devices, manage PCCPs, monitor adverse events, and stay aligned with FDA QSR",
-      "version": "1.0.0",
       "category": "healthcare",
       "tags": [
         "healthcare",
@@ -248,7 +232,6 @@
       "name": "hr-manager",
       "source": "./hr-manager",
       "description": "Write job descriptions, draft policies, run RTO and severance comms, audit reviews and JDs for bias",
-      "version": "1.1.0",
       "category": "business",
       "tags": [
         "hr",
@@ -266,7 +249,6 @@
       "name": "insurance-agent",
       "source": "./insurance-agent",
       "description": "Summarize policies, draft renewal letters, and generate claims documentation",
-      "version": "1.0.0",
       "category": "financial",
       "tags": [
         "insurance",
@@ -280,7 +262,6 @@
       "name": "interior-designer",
       "source": "./interior-designer",
       "description": "Write project proposals, draft spec sheets, and create client presentations",
-      "version": "1.0.0",
       "category": "design",
       "tags": [
         "design",
@@ -294,7 +275,6 @@
       "name": "litigation-paralegal",
       "source": "./litigation-paralegal",
       "description": "Summarize depositions, build case timelines, draft motions, and manage discovery holds",
-      "version": "1.0.0",
       "category": "legal",
       "tags": [
         "legal",
@@ -308,7 +288,6 @@
       "name": "management-consultant",
       "source": "./management-consultant",
       "description": "Draft client proposals, write executive summaries, and turn meetings into action plans",
-      "version": "1.0.0",
       "category": "business",
       "tags": [
         "business",
@@ -322,7 +301,6 @@
       "name": "mortgage-broker",
       "source": "./mortgage-broker",
       "description": "Generate rate comparisons, draft pre-approval letters, and create client communications for mortgage lending",
-      "version": "1.0.0",
       "category": "financial",
       "tags": [
         "mortgage",
@@ -336,7 +314,6 @@
       "name": "nurse",
       "source": "./nurse",
       "description": "Draft nursing notes, create shift handoffs, build care plans, and generate patient education materials",
-      "version": "1.0.0",
       "category": "healthcare",
       "tags": [
         "healthcare",
@@ -350,7 +327,6 @@
       "name": "occupational-therapist",
       "source": "./occupational-therapist",
       "description": "Draft SOAP notes, treatment plans, progress reports, and home exercise programs for occupational therapy",
-      "version": "1.0.0",
       "category": "healthcare",
       "tags": [
         "healthcare",
@@ -364,7 +340,6 @@
       "name": "optometrist",
       "source": "./optometrist",
       "description": "Document eye exams, draft referral letters, create patient education materials, and write insurance narratives",
-      "version": "1.0.0",
       "category": "healthcare",
       "tags": [
         "healthcare",
@@ -378,7 +353,6 @@
       "name": "paralegal",
       "source": "./paralegal",
       "description": "Draft legal documents, summarize cases, and write client correspondence",
-      "version": "1.0.0",
       "category": "legal",
       "tags": [
         "legal",
@@ -392,7 +366,6 @@
       "name": "personal-trainer",
       "source": "./personal-trainer",
       "description": "Build workout programs, write nutrition plans, and generate client reports",
-      "version": "1.0.0",
       "category": "wellness",
       "tags": [
         "wellness",
@@ -406,7 +379,6 @@
       "name": "pharmacist",
       "source": "./pharmacist",
       "description": "Review drug interactions, check dosing protocols, and draft patient counseling notes",
-      "version": "1.0.0",
       "category": "healthcare",
       "tags": [
         "healthcare",
@@ -420,7 +392,6 @@
       "name": "photographer",
       "source": "./photographer",
       "description": "Create client proposals, shot lists, album descriptions, and marketing emails for photography businesses",
-      "version": "1.0.0",
       "category": "design",
       "tags": [
         "photography",
@@ -434,7 +405,6 @@
       "name": "physical-therapist",
       "source": "./physical-therapist",
       "description": "Draft SOAP notes, build exercise programs, and write insurance appeal letters",
-      "version": "1.0.0",
       "category": "healthcare",
       "tags": [
         "healthcare",
@@ -447,7 +417,6 @@
       "name": "product-manager-ai",
       "source": "./product-manager-ai",
       "description": "Spec AI features, evaluate regulatory risk, plan staged rollouts, and turn user feedback into the next sprint",
-      "version": "1.0.0",
       "category": "business",
       "tags": [
         "product-management",
@@ -461,7 +430,6 @@
       "name": "prompt-engineer",
       "source": "./prompt-engineer",
       "description": "Build evals, A/B test prompts, audit skills, and benchmark LLM outputs at production quality",
-      "version": "1.0.0",
       "category": "tech",
       "tags": [
         "prompt-engineering",
@@ -475,7 +443,6 @@
       "name": "property-manager",
       "source": "./property-manager",
       "description": "Draft tenant notices, board reports, vendor emails, and budget narratives for property management",
-      "version": "1.0.0",
       "category": "real-estate",
       "tags": [
         "real-estate",
@@ -489,7 +456,6 @@
       "name": "real-estate",
       "source": "./real-estate",
       "description": "Write listing descriptions, draft client emails, and create market analysis narratives",
-      "version": "1.0.0",
       "category": "real-estate",
       "tags": [
         "real-estate",
@@ -503,7 +469,6 @@
       "name": "recruiter",
       "source": "./recruiter",
       "description": "Write job descriptions, draft outreach, screen for ghost jobs and AI-written resumes",
-      "version": "1.1.0",
       "category": "business",
       "tags": [
         "business",
@@ -520,7 +485,6 @@
       "name": "sales-rep",
       "source": "./sales-rep",
       "description": "Research prospects, draft follow-up sequences, and generate sales proposals",
-      "version": "1.0.0",
       "category": "business",
       "tags": [
         "business",
@@ -534,7 +498,6 @@
       "name": "social-media-manager",
       "source": "./social-media-manager",
       "description": "Captions, calendars, video scripts, visual briefs, and cross-platform adaptation for social media managers",
-      "version": "1.1.0",
       "category": "business",
       "tags": [
         "marketing",
@@ -552,7 +515,6 @@
       "name": "speech-language-pathologist",
       "source": "./speech-language-pathologist",
       "description": "Draft therapy notes, write IEP goals, and generate progress reports and therapy materials",
-      "version": "1.0.0",
       "category": "healthcare",
       "tags": [
         "healthcare",
@@ -566,7 +528,6 @@
       "name": "teacher",
       "source": "./teacher",
       "description": "Lesson plans, rubrics, parent communications, plus FERPA/COPPA AI guardrails, AI ethics briefs, and exam-integrity review",
-      "version": "1.1.0",
       "category": "education",
       "tags": [
         "education",
@@ -584,7 +545,6 @@
       "name": "therapist",
       "source": "./therapist",
       "description": "Draft session notes, build treatment plans, run HIPAA checks, aggregate outcome measures, and version treatment plans",
-      "version": "1.1.0",
       "category": "healthcare",
       "tags": [
         "healthcare",
@@ -602,7 +562,6 @@
       "name": "tradesperson",
       "source": "./tradesperson",
       "description": "Draft customer estimates, write inspection reports, and generate scopes of work",
-      "version": "1.0.0",
       "category": "trades",
       "tags": [
         "trades",
@@ -616,7 +575,6 @@
       "name": "veterinarian",
       "source": "./veterinarian",
       "description": "Draft SOAP notes, write discharge summaries, and generate client communications",
-      "version": "1.0.0",
       "category": "healthcare",
       "tags": [
         "healthcare",
