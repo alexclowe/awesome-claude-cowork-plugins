@@ -83,11 +83,20 @@ experience minimums, "rockstar," "fast-paced startup," and a long list of
 preferred qualifications]
 ```
 
+## Install
+
+In Claude Cowork or Claude Code (plugin installs need a paid Claude plan — Pro, Max, or Team):
+
+```
+/plugin marketplace add alexclowe/awesome-claude-cowork-plugins
+/plugin install hr-manager@awesome-claude-cowork-plugins
+```
+
 ## More resources
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for HR managers: https://theaicareerlab.com/professions/hr-manager
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-hr-manager
-- **HR Manager Claude Vault — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/hr-manager
+- **HR Manager AI Prompts — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/hr-manager
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=hr-manager
 - **Weekly AI Digest** — Curated AI updates for HR managers: https://theaicareerlab.com/newsletter
 

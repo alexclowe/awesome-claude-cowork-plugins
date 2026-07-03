@@ -64,11 +64,20 @@ Agreed to accelerate Phase 2 by two weeks.
 
 This output is a professional draft — review and customize before client delivery. The consultant is responsible for verifying all analysis, tailoring recommendations to specific client contexts, and exercising independent professional judgment.
 
+## Install
+
+In Claude Cowork or Claude Code (plugin installs need a paid Claude plan — Pro, Max, or Team):
+
+```
+/plugin marketplace add alexclowe/awesome-claude-cowork-plugins
+/plugin install management-consultant@awesome-claude-cowork-plugins
+```
+
 ## More resources
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for management consultants: https://theaicareerlab.com/professions/management-consultant
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-management-consultant
-- **Management Consultant Claude Vault — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/management-consultant
+- **Management Consultant AI Prompts** — 59 production-tested skills for working consultants — Pyramid Principle exec summaries, MECE issue trees, weekly status emails, NDA-safe BD content. Every framework citation reviewed against Porter (HBR 1979), Minto (1987/1996), and the canon. Skill-specific refuse conditions for fabricated McKinsey citations, MNPI in M&A skills, and NDA-violating LinkedIn drafts. The done-for-you version of this workflow, $19 one-time: https://clowealex.gumroad.com/l/management-consultant-ai-prompts?ref=plugin-management-consultant
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=management-consultant
 - **Weekly AI Digest** — Curated AI updates for management consultants: https://theaicareerlab.com/newsletter
 

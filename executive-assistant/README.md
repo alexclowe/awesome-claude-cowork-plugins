@@ -54,11 +54,20 @@ Inbox pressure: 37 unread messages
 Need: top 5 priorities, what to delegate, what can wait, and a suggested order of operations
 ```
 
+## Install
+
+In Claude Cowork or Claude Code (plugin installs need a paid Claude plan — Pro, Max, or Team):
+
+```
+/plugin marketplace add alexclowe/awesome-claude-cowork-plugins
+/plugin install executive-assistant@awesome-claude-cowork-plugins
+```
+
 ## More resources
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for executive assistants: https://theaicareerlab.com/professions/executive-assistant
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-executive-assistant
-- **Executive Assistant Claude Vault — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/executive-assistant
+- **Executive Assistant AI Prompts — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/executive-assistant
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=executive-assistant
 - **Weekly AI Digest** — Curated AI updates for executive assistants: https://theaicareerlab.com/newsletter
 

@@ -65,11 +65,20 @@ Offer 3: $550K cash, as-is, close in 14 days, rent-back 30 days.
 
 This output is a professional draft — verify all property details, MLS compliance, and Fair Housing compliance before publishing.
 
+## Install
+
+In Claude Cowork or Claude Code (plugin installs need a paid Claude plan — Pro, Max, or Team):
+
+```
+/plugin marketplace add alexclowe/awesome-claude-cowork-plugins
+/plugin install real-estate@awesome-claude-cowork-plugins
+```
+
 ## More resources
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for real estate agents: https://theaicareerlab.com/professions/real-estate
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-real-estate
-- **The Real Estate Agent Claude Vault** — 50 skills for listings, client emails, CMAs, and open houses — fair-housing-aware out of the box. The done-for-you version of this workflow, $29 one-time: https://clowealex.gumroad.com/l/cqvdol?ref=plugin-real-estate
+- **Realtor AI Prompts** — 62 agentic skills for listings, client emails, CMAs, and open houses. Ambient fair-housing guard flags steering language before it ships. The done-for-you version of this workflow, $19 one-time: https://clowealex.gumroad.com/l/realtor-ai-prompts?ref=plugin-real-estate
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=real-estate
 - **Weekly AI Digest** — Curated AI updates for real estate agents: https://theaicareerlab.com/newsletter
 

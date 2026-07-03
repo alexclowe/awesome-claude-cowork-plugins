@@ -57,11 +57,20 @@ recommend the top 3 fixes for next sprint with rough effort and impact.
 
 This plugin generates drafts for product manager review. AI risk classifications and regulatory analyses produced here are starting points only — final regulatory decisions require legal, compliance, and security review specific to your jurisdiction and product. Always validate against current EU AI Act guidance, FINRA notices, FDA guidance documents, and your company's compliance policy before launch.
 
+## Install
+
+In Claude Cowork or Claude Code (plugin installs need a paid Claude plan — Pro, Max, or Team):
+
+```
+/plugin marketplace add alexclowe/awesome-claude-cowork-plugins
+/plugin install product-manager-ai@awesome-claude-cowork-plugins
+```
+
 ## More resources
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for AI product managers: https://theaicareerlab.com/professions/product-manager-ai
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-product-manager-ai
-- **AI Product Manager Claude Vault — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/product-manager-ai
+- **AI Product Manager AI Prompts — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/product-manager-ai
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=product-manager-ai
 - **Weekly AI Digest** — Curated AI updates for AI product managers: https://theaicareerlab.com/newsletter
 

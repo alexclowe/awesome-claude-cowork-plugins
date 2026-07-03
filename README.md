@@ -1,12 +1,12 @@
-# AI Career Lab — Claude Code Plugins
+# AI Career Lab — Claude Cowork Plugins
 
-42 profession-specific plugin suites for Claude Code. Each plugin gives Claude slash commands and auto-activating domain skills for a specific profession.
+42 profession-specific plugin suites for Claude Cowork and Claude Code. Each plugin gives Claude slash commands and auto-activating domain skills for a specific profession.
 
 Research shows profession-specific skills boost AI accuracy by up to 52 percentage points compared to generic prompts.
 
 ## Install
 
-In Claude Code (or Claude Cowork on a paid plan), add the marketplace once, then install any plugin by name:
+In Claude Cowork or Claude Code (plugins need a paid Claude plan — Pro, Max, or Team), add the marketplace once, then install any plugin by name:
 
 ```bash
 # 1. Add the marketplace (one time)

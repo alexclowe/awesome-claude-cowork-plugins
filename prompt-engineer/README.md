@@ -54,11 +54,20 @@ target.
 
 This plugin produces drafts of evaluation rubrics, test cases, and statistical analyses. Statistical verdicts are based on the samples and methods you provide — small sample sizes or biased test sets will produce misleading results. The prompt engineer is responsible for validating eval design, reviewing flagged failures manually, and confirming that automated judges align with human judgment before relying on benchmarks for production decisions.
 
+## Install
+
+In Claude Cowork or Claude Code (plugin installs need a paid Claude plan — Pro, Max, or Team):
+
+```
+/plugin marketplace add alexclowe/awesome-claude-cowork-plugins
+/plugin install prompt-engineer@awesome-claude-cowork-plugins
+```
+
 ## More resources
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for prompt engineers: https://theaicareerlab.com/professions/prompt-engineer
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-prompt-engineer
-- **Prompt Engineer Claude Vault — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/prompt-engineer
+- **Prompt Engineer AI Prompts — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/prompt-engineer
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=prompt-engineer
 - **Weekly AI Digest** — Curated AI updates for prompt engineers: https://theaicareerlab.com/newsletter
 

@@ -91,11 +91,20 @@ conversion.
 
 This output is a professional draft — verify all financial data and ensure compliance with your firm's regulatory requirements before client delivery. Tax and regulatory landscapes shift frequently — coordinate with your firm's Chief Compliance Officer, the client's tax professional, and qualified counsel for any actionable position.
 
+## Install
+
+In Claude Cowork or Claude Code (plugin installs need a paid Claude plan — Pro, Max, or Team):
+
+```
+/plugin marketplace add alexclowe/awesome-claude-cowork-plugins
+/plugin install financial-advisor@awesome-claude-cowork-plugins
+```
+
 ## More resources
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for financial advisors: https://theaicareerlab.com/professions/financial-advisor
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-financial-advisor
-- **Financial Advisor Claude Vault — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/financial-advisor
+- **Financial Advisor AI Prompts** — 31 agentic skills — the compliance, client-communication, and book-growth layer that stacks on top of Anthropic's free Claude for Financial Services plugin. Reg BI rationale memos, Form ADV-consistent disclosures, SEC Marketing Rule reviews, client emails in your voice. Ambient compliance-boundary + client-NPI guards built in. The done-for-you version of this workflow, $19 one-time: https://clowealex.gumroad.com/l/financial-advisor-ai-prompts?ref=plugin-financial-advisor
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=financial-advisor
 - **Weekly AI Digest** — Curated AI updates for financial advisors: https://theaicareerlab.com/newsletter
 

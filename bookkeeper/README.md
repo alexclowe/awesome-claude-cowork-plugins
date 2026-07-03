@@ -61,11 +61,20 @@ this quarter's estimate. She tends to submit documents late.
 
 This output is a professional draft — verify all financial data and consult with a CPA for tax advice.
 
+## Install
+
+In Claude Cowork or Claude Code (plugin installs need a paid Claude plan — Pro, Max, or Team):
+
+```
+/plugin marketplace add alexclowe/awesome-claude-cowork-plugins
+/plugin install bookkeeper@awesome-claude-cowork-plugins
+```
+
 ## More resources
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for bookkeepers: https://theaicareerlab.com/professions/bookkeeper
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-bookkeeper
-- **The Bookkeeper Claude Vault** — 50 skills with a hard CPA boundary for monthly close, reconciliations, and client comms. The done-for-you version of this workflow, $29 one-time: https://clowealex.gumroad.com/l/jklwoz?ref=plugin-bookkeeper
+- **Bookkeeper AI Prompts** — 62 agentic skills for monthly close, reconciliations, and client comms. Ambient CPA-boundary guard keeps you out of tax-advice territory. The done-for-you version of this workflow, $19 one-time: https://clowealex.gumroad.com/l/bookkeeper-ai-prompts?ref=plugin-bookkeeper
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=bookkeeper
 - **Weekly AI Digest** — Curated AI updates for bookkeepers: https://theaicareerlab.com/newsletter
 

@@ -63,11 +63,20 @@ additional documentation from both parties. 3) Mediation may be offered within
 
 All content generated with this plugin is a professional draft requiring attorney review before use or distribution. This plugin does not provide legal advice. The supervising attorney is responsible for verifying all citations, ensuring jurisdiction-specific accuracy, and exercising independent professional judgment. AI-generated legal citations may not reflect actual case law and must be independently verified.
 
+## Install
+
+In Claude Cowork or Claude Code (plugin installs need a paid Claude plan — Pro, Max, or Team):
+
+```
+/plugin marketplace add alexclowe/awesome-claude-cowork-plugins
+/plugin install paralegal@awesome-claude-cowork-plugins
+```
+
 ## More resources
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for paralegals: https://theaicareerlab.com/professions/paralegal
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-paralegal
-- **Paralegal Claude Vault — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/paralegal
+- **Paralegal AI Prompts — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/paralegal
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=paralegal
 - **Weekly AI Digest** — Curated AI updates for paralegals: https://theaicareerlab.com/newsletter
 

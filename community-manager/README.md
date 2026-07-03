@@ -55,11 +55,20 @@ T-1d, T-1h), live-event runbook, and a 48-hour post-event follow-up sequence.
 
 This plugin generates moderation drafts, onboarding copy, and engagement recommendations for community manager review. It does not replace human judgment on harassment, safety, or legal escalation decisions. For regulated communities (financial services, healthcare, education), verify outputs against your platform's compliance policies and applicable laws before publishing or acting.
 
+## Install
+
+In Claude Cowork or Claude Code (plugin installs need a paid Claude plan — Pro, Max, or Team):
+
+```
+/plugin marketplace add alexclowe/awesome-claude-cowork-plugins
+/plugin install community-manager@awesome-claude-cowork-plugins
+```
+
 ## More resources
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for community managers: https://theaicareerlab.com/professions/community-manager
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-community-manager
-- **Community Manager Claude Vault — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/community-manager
+- **Community Manager AI Prompts — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/community-manager
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=community-manager
 - **Weekly AI Digest** — Curated AI updates for community managers: https://theaicareerlab.com/newsletter
 
