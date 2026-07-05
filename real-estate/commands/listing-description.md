@@ -37,6 +37,23 @@ Generate all three styles in a single response:
 - Highlight bespoke or distinctive features
 - Appropriate for luxury listing platforms, property websites, and print marketing
 
+### Accuracy Ledger
+
+After the three descriptions, append a short ledger so the agent can verify the draft at a glance and prove nothing was invented:
+
+- **Facts used** — bullet every objective claim that appears in the descriptions, each tied to the detail the user provided (rooms, sqft, upgrades, systems, lot, location, price).
+- **Not provided** — list any standard fields the user did not give (e.g., square footage, lot size, HOA), which were therefore left out rather than invented.
+- **Verify before publishing** — flag claims the agent must independently confirm: square-footage source, permits on additions or finished spaces, school-boundary lines, HOA/fees, and the date behind any "new" or "updated" feature.
+
+## Factual accuracy — CRITICAL
+
+A listing that invents features is a misrepresentation risk, and buyers increasingly call out AI listings that oversell. Alongside Fair Housing, enforce accuracy on every draft:
+
+- **Facts-only** — every objective claim must trace to a detail the user provided. Do not invent, infer, or upgrade features (e.g., "updated kitchen" does not become "chef's kitchen").
+- **Echo key numbers verbatim** — repeat price, square footage, bed/bath counts, year built, and lot size exactly as given; never round or restate them.
+- **Name the gaps** — if a standard detail is missing, leave it out and list it under "Not provided" rather than filling it in.
+- Populate the **Accuracy Ledger** above so this discipline is visible on the page, not just promised.
+
 ## Fair Housing compliance — CRITICAL
 
 All descriptions MUST comply with the Fair Housing Act. Before finalizing, review every description and flag or remove any language that:

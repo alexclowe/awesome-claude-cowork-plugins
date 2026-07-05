@@ -18,7 +18,7 @@ Built by [The AI Career Lab](https://theaicareerlab.com/professions/real-estate)
 
 This plugin includes skills that activate automatically when you're working on real estate tasks:
 
-- **Real Estate Marketing** — MLS listing writing, social media marketing, Fair Housing Act compliance, property photography direction, and open house marketing
+- **Real Estate Marketing** — MLS listing writing, social media marketing, factual-accuracy checks (facts-only, verbatim numbers, a verify-before-publish list), Fair Housing Act compliance, property photography direction, and open house marketing
 - **Client Communication** — Real estate client relationship communication for buyers, sellers, and leads including price reductions, contingency explanations, escrow updates, and cold lead re-engagement
 
 ## Usage examples
