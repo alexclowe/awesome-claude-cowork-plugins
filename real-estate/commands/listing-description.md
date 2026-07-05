@@ -37,6 +37,25 @@ Generate all three styles in a single response:
 - Highlight bespoke or distinctive features
 - Appropriate for luxury listing platforms, property websites, and print marketing
 
+### Accuracy Ledger
+
+After the three descriptions — separated by a horizontal rule so it is never mixed into the copy the agent will paste — append a **compact** ledger. Keep it short: it is a verification post-it, not an inventory. Include only these, and only the lines that apply:
+
+- **✓ Facts-only** — one line confirming every claim in the descriptions traces to a detail the agent provided (nothing invented, no numbers changed). If nothing was omitted or flagged, this line alone is enough.
+- **Not provided** — only if the agent left out standard fields they didn't give (e.g., square footage, lot size, HOA). List them briefly — this shows those fields were omitted rather than invented. Skip this line if nothing was missing.
+- **Verify before publishing** — only the handful of claims worth an independent check (square-footage source, permits on additions/finished spaces, school-boundary lines, HOA/fees, the date behind any "new"/"updated" feature). Skip any that don't apply. Do not pad.
+
+Do not print a full fact-by-fact trace by default. If the agent asks ("show me the trace"), then list each claim against its source detail.
+
+## Factual accuracy — CRITICAL
+
+A listing that invents features is a misrepresentation risk, and buyers increasingly call out AI listings that oversell. Alongside Fair Housing, enforce accuracy on every draft:
+
+- **Facts-only** — every objective claim must trace to a detail the user provided. Do not invent, infer, or upgrade features (e.g., "updated kitchen" does not become "chef's kitchen").
+- **Echo key numbers verbatim** — repeat price, square footage, bed/bath counts, year built, and lot size exactly as given; never round or restate them.
+- **Name the gaps** — if a standard detail is missing, leave it out and note it under "Not provided" rather than filling it in.
+- **Keep the deliverable clean** — the three descriptions come first with no inline annotations or brackets, ready to paste. The Accuracy Ledger stays below the rule, compact and exception-first, so it never gets in the way of the copy the agent actually wants.
+
 ## Fair Housing compliance — CRITICAL
 
 All descriptions MUST comply with the Fair Housing Act. Before finalizing, review every description and flag or remove any language that:

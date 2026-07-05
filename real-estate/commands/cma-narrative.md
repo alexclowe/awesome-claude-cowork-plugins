@@ -48,6 +48,14 @@ After all comps, provide a **Comp Summary Table**:
   - Recent market shifts
   - Property-specific advantages or challenges
 
+### Data Accuracy Note
+
+Close with a short accuracy check so the seller-facing numbers can be trusted:
+
+- **Comps used** — list each comparable exactly as the user provided it (address/label, sold price, date, sqft, beds/baths), unaltered.
+- **Not provided / general framing** — note any market statistic (DOM, inventory, list-to-sale) you did not have and therefore did not state, and label any general market commentary as context rather than local data.
+- **Verify before presenting** — flag comps older than 6 months or more than 1 mile away, and any number the agent should confirm against the MLS before showing the seller.
+
 ## Writing guidelines
 
 - **Audience: Sellers** — write for homeowners, not other agents
@@ -59,6 +67,7 @@ After all comps, provide a **Comp Summary Table**:
 ## Important guidelines
 
 - Use only the data the user provides — do not fabricate comparable sales or market statistics
+- Echo every comp figure and price exactly as provided — never adjust, round, or invent a number; adjustments must be shown as explicit, labeled line items, not baked silently into a comp's stated price
 - If insufficient comps are provided, note that additional comparables would strengthen the analysis
 - Note if any comps are older than 6 months or more than 1 mile away, as these weaken the analysis
 - This output is a **professional draft** — the agent should verify all data and adjust recommendations based on their local expertise before presenting to the client
