@@ -1,0 +1,14 @@
+{
+  "name": "accountant",
+  "description": "Draft tax return summaries, tax-planning memos, engagement letters, and IRS notice responses with current-law and practice-boundary guardrails",
+  "version": "1.0.0",
+  "author": {
+    "name": "The AI Career Lab",
+    "email": "hello@theaicareerlab.com"
+  },
+  "homepage": "https://theaicareerlab.com/professions/accountant",
+  "repository": "https://github.com/alexclowe/awesome-claude-cowork-plugins",
+  "license": "MIT",
+  "keywords": ["accountant", "cpa", "ea", "tax-preparation", "tax-planning", "advisory"],
+  "category": "financial"
+}

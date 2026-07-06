@@ -10,6 +10,20 @@
   },
   "plugins": [
     {
+      "name": "accountant",
+      "source": "./accountant",
+      "description": "Draft tax return summaries, tax-planning memos, engagement letters, and IRS notice responses with current-law and practice-boundary guardrails",
+      "category": "financial",
+      "tags": [
+        "accountant",
+        "cpa",
+        "ea",
+        "tax-preparation",
+        "tax-planning",
+        "advisory"
+      ]
+    },
+    {
       "name": "ai-compliance-officer",
       "source": "./ai-compliance-officer",
       "description": "Audit AI systems, generate compliance docs, track regulatory change, and evaluate autonomous agents",
@@ -90,6 +104,20 @@
         "estimating",
         "contractor",
         "building"
+      ]
+    },
+    {
+      "name": "contractor",
+      "source": "./contractor",
+      "description": "Draft line-item estimates, change orders, scopes of work, and client updates with license and lien guardrails built in",
+      "category": "construction",
+      "tags": [
+        "contractor",
+        "construction",
+        "trades",
+        "estimating",
+        "change-orders",
+        "remodeling"
       ]
     },
     {
