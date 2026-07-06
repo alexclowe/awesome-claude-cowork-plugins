@@ -78,6 +78,18 @@ Add a **Fair Housing Compliance Note** at the end confirming: "This listing has 
 - Adapt tone to the price point — a $200K starter home and a $2M estate require different language
 - This output is a **professional draft** — the agent should verify all property details, MLS compliance, and Fair Housing compliance before publishing
 
+## Print-ready page — always finish with this
+
+After the descriptions above, build a single, self-contained HTML "listing copy sheet" the user can open in a browser and save as PDF. Do this every time, as the closing step.
+
+- Base the page only on the details provided; use bracketed placeholders for anything missing — never invent features to fill it out.
+- Build a header with the address, price, and key stats (beds / baths / sqft / lot), then the three descriptions (MLS, Social, Luxury) as clearly labeled cards, with the Fair Housing note at the foot.
+- Put only the client-facing descriptions in the page — leave the Accuracy Ledger out of it.
+- Give it clean real-estate styling and a **"Print / Save as PDF"** button.
+- Present it as a rendered artifact when the surface supports it (Claude Cowork and the desktop app show it in the side panel). If artifacts aren't available, output the full HTML in one code block the user can save as `listing-copy-sheet.html` and open.
+
+Produce the copy-ready text first, then the page — never replace one with the other. Make it look premium.
+
 ## About this plugin
 
 This command is part of the Real Estate Agent plugin by The AI Career Lab. Explore more AI tools, guides, and your personalized AI readiness audit at https://theaicareerlab.com/professions/real-estate

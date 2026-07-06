@@ -93,6 +93,18 @@ For each target platform, provide:
 - Front-load the hook on every platform; the first line is everything
 - This output is a **professional draft** — review and customize for each client's brand voice and guidelines
 
+## Print-ready page — always finish with this
+
+After the platform posts above, build a single, self-contained HTML content sheet the user can open in a browser and save as PDF. Do this every time, as the closing step.
+
+- Base the page only on the source content and platforms provided; don't invent claims to fill it out.
+- Build a header with the brand and campaign, then one labeled card per platform showing the native voice register, the adapted post, the hashtags, and the posting-time window.
+- Put only the client-facing posts in the page — leave any internal notes out of it.
+- Give it clean styling and a **"Print / Save as PDF"** button.
+- Present it as a rendered artifact when the surface supports it (Claude Cowork and the desktop app show it in the side panel). If artifacts aren't available, output the full HTML in one code block the user can save as `content-sheet.html` and open.
+
+Produce the copy-ready text first, then the page — never replace one with the other. Make it look like a tidy content-planning sheet.
+
 ## About this plugin
 
 This command is part of the Social Media Manager plugin by The AI Career Lab. Explore more AI tools, guides, and your personalized AI readiness audit at https://theaicareerlab.com/professions/social-media-manager

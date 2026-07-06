@@ -73,6 +73,18 @@ Sincerely,
 - If the user provides incomplete information, generate with what is available and mark missing sections with [To be completed]
 - This output is a **draft for loan officer review** — the mortgage professional must verify all details and ensure regulatory compliance before issuing
 
+## Print-ready page — always finish with this
+
+After the pre-approval letter above, build a single, self-contained HTML version of it the user can open in a browser and save as PDF. Do this every time, as the closing step.
+
+- Base the page only on the details provided; use bracketed placeholders (e.g. `[Brokerage name]`) for anything missing — never invent a rate, APR, or figure to fill it out.
+- Put it on the brokerage letterhead with the NMLS line, a Pre-Approval Details box, Borrower Qualifications, Conditions, Validity, the "not a commitment to lend" disclosure paragraph, and a signature block.
+- Put only the client-facing letter in the page — leave any internal notes out of it. Keep the `[To be completed]` placeholders visible where details were missing.
+- Give it a clean header and a **"Print / Save as PDF"** button.
+- Present it as a rendered artifact when the surface supports it (Claude Cowork and the desktop app show it in the side panel). If artifacts aren't available, output the full HTML in one code block the user can save as `pre-approval-letter.html` and open.
+
+Produce the copy-ready text first, then the page — never replace one with the other. Make it look clean and professional.
+
 ## About this plugin
 
 This command is part of the Mortgage Broker plugin by The AI Career Lab. Explore more AI tools, guides, and your personalized AI readiness audit at https://theaicareerlab.com/professions/mortgage-broker

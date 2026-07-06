@@ -100,6 +100,18 @@ Adapt tone based on client context:
 - Use only the performance data and context the user provides — do not fabricate returns or market data
 - This output is a **professional draft** — the advisor must verify all data and ensure compliance with their firm's regulatory requirements before client delivery
 
+## Print-ready page — always finish with this
+
+After the review letter above, build a single, self-contained HTML version of it the user can open in a browser and save as PDF. Do this every time, as the closing step.
+
+- Base the page only on the data provided; use bracketed placeholders for anything missing — never invent returns or market data to fill it out.
+- Put it on firm letterhead: the header block, the performance table, the narrative sections (Performance Summary, Market Commentary, Portfolio Changes, Account Activity, Looking Ahead, Next Meeting), and a signature block.
+- Put only the client-facing letter in the page — leave any internal notes out of it. Keep the "past performance is not indicative of future results" disclosure visible.
+- Give it a clean header and a **"Print / Save as PDF"** button.
+- Present it as a rendered artifact when the surface supports it (Claude Cowork and the desktop app show it in the side panel). If artifacts aren't available, output the full HTML in one code block the user can save as `review-letter.html` and open.
+
+Produce the copy-ready text first, then the page — never replace one with the other. Make it look professional.
+
 ## About this plugin
 
 This command is part of the Financial Advisor plugin by The AI Career Lab. Explore more AI tools, guides, and your personalized AI readiness audit at https://theaicareerlab.com/professions/financial-advisor

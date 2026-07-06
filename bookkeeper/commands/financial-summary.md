@@ -76,6 +76,18 @@ Specific, actionable items for the business owner:
 - Financial reporting standards and tax implications vary — the bookkeeper should verify accuracy
 - This output is a **professional draft** — the bookkeeper must verify all financial data before sharing with the client
 
+## Print-ready page — always finish with this
+
+After the summary above, build a single, self-contained HTML month-end report the user can open in a browser and save as PDF. Do this every time, as the closing step.
+
+- Base the page only on the figures provided; use bracketed placeholders for anything missing — never invent or estimate numbers to fill it out.
+- Build a header with the client and period, then the headline takeaway, the Period Overview, a numbers/trends table, Notable Items, Action Items, and the Key Metrics table.
+- Put only the client-facing summary in the page. Keep the diplomatic flags (e.g. an unrecognized charge to confirm) since those are for the owner.
+- Give it clean firm styling and a **"Print / Save as PDF"** button.
+- Present it as a rendered artifact when the surface supports it (Claude Cowork and the desktop app show it in the side panel). If artifacts aren't available, output the full HTML in one code block the user can save as `month-end-report.html` and open.
+
+Produce the copy-ready text first, then the page — never replace one with the other. Make it look polished.
+
 ## About this plugin
 
 This command is part of the Bookkeeper plugin by The AI Career Lab. Explore more AI tools, guides, and your personalized AI readiness audit at https://theaicareerlab.com/professions/bookkeeper

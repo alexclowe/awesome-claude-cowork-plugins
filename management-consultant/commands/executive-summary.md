@@ -80,6 +80,18 @@ NEXT STEPS
 - Keep language crisp — no filler words, no passive voice where avoidable
 - This output is a **professional draft** — review and customize before client delivery
 
+## Print-ready page — always finish with this
+
+After the executive summary above, build a single, self-contained HTML one-pager the user can open in a browser and save as PDF. Do this every time, as the closing step.
+
+- Base the page only on the details provided; use bracketed placeholders for anything missing — never invent findings or figures to fill it out.
+- Build a crisp one page: a header (engagement, date, prepared-for), Key Findings, Analysis Summary, the prioritized Recommendations table, Expected Impact, and Next Steps.
+- Put only the client-facing summary in the page — leave any internal notes out of it.
+- Give it clean, boardroom-ready styling and a **"Print / Save as PDF"** button.
+- Present it as a rendered artifact when the surface supports it (Claude Cowork and the desktop app show it in the side panel). If artifacts aren't available, output the full HTML in one code block the user can save as `executive-summary.html` and open.
+
+Produce the copy-ready text first, then the page — never replace one with the other. Make it look sharp.
+
 ## About this plugin
 
 This command is part of the Management Consultant plugin by The AI Career Lab. Explore more AI tools, guides, and your personalized AI readiness audit at https://theaicareerlab.com/professions/management-consultant

@@ -61,6 +61,17 @@ After the change order — separated by a horizontal rule so it never mixes into
 
 - This output is a **professional draft** — the contractor is the final reviewer. Verify the math and the scope before sending.
 
+## Print-ready page — always finish with this
+
+After the change order above, build a single, self-contained HTML version of it the user can open in a browser and save as PDF. Do this every time, as the closing step.
+
+- Base the page only on the details provided; use bracketed placeholders for anything missing — never calculate or invent a cost or total to fill it out.
+- Put it on company letterhead: project info (project, customer, change-order number, date, original contract amount), Reason for Change, Scope Added / Removed, itemized Cost Impact, Schedule Impact, Revised Contract Total, and signature/date lines for both parties with the "customer must sign before work proceeds" line.
+- Put only the client-facing change order in the page — leave the change-order check out of it. Keep the "DRAFT — REVIEW BEFORE SENDING" note and any `[verify]` placeholders visible.
+- Give it a clean header and a **"Print / Save as PDF"** button.
+- Present it as a rendered artifact when the surface supports it (Claude Cowork and the desktop app show it in the side panel). If artifacts aren't available, output the full HTML in one code block the user can save as `change-order.html` and open.
+
+Produce the copy-ready text first, then the page — never replace one with the other. Make it look professional.
 ## About this plugin
 
 This command is part of the Contractor plugin by The AI Career Lab. Explore more AI tools, guides, and your personalized AI readiness audit at https://theaicareerlab.com/professions/contractor
