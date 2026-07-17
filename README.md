@@ -1,6 +1,6 @@
 # AI Career Lab — Claude Cowork Plugins
 
-42 profession-specific plugin suites for Claude Cowork and Claude Code. Each plugin gives Claude slash commands and auto-activating domain skills for a specific profession.
+43 profession-specific plugin suites for Claude Cowork and Claude Code. Each plugin gives Claude slash commands and auto-activating domain skills for a specific profession.
 
 Research shows profession-specific skills boost AI accuracy by up to 52 percentage points compared to generic prompts.
 
@@ -81,6 +81,7 @@ In Claude Cowork or Claude Code (plugins need a paid Claude plan — Pro, Max, o
 | Plugin | Commands | Skills | Install |
 |--------|----------|--------|---------|
 | [Data Scientist](./data-scientist) | `/design-experiment` `/analyze-dataset` `/build-model` `/eval-model` | Dataset Profiling, Model Card Generation | `/plugin install data-scientist@awesome-claude-cowork-plugins` |
+| [FinOps Practitioner](./finops-practitioner) | `/ai-spend-inventory` `/allocate-ai-costs` `/cost-per-task` `/ai-spend-report` `/vendor-renewal-brief` | AI Billing Models, AI Unit Economics | `/plugin install finops-practitioner@awesome-claude-cowork-plugins` |
 | [Prompt Engineer](./prompt-engineer) | `/eval-rubric` `/test-batch` `/skill-version` `/skill-audit` | Prompt Optimization Loop, Skill Benchmarking | `/plugin install prompt-engineer@awesome-claude-cowork-plugins` |
 
 ### Compliance & Risk

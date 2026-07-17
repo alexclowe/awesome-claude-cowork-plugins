@@ -244,6 +244,19 @@
       ]
     },
     {
+      "name": "finops-practitioner",
+      "source": "./finops-practitioner",
+      "description": "Inventory AI spend, allocate costs to teams, compute cost-per-successful-task, and draft spend reports and renewal briefs",
+      "category": "business",
+      "tags": [
+        "finops",
+        "ai spend",
+        "cost allocation",
+        "unit economics",
+        "vendor management"
+      ]
+    },
+    {
       "name": "healthcare-compliance-officer",
       "source": "./healthcare-compliance-officer",
       "description": "Validate AI medical devices, manage PCCPs, monitor adverse events, and stay aligned with FDA QSR",
