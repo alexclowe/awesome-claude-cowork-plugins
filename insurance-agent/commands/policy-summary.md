@@ -68,6 +68,20 @@ What the client should do:
 - Insurance regulations vary by state — note that the summary is general and the agent should confirm state-specific details
 - This output is a **professional draft** — the agent should verify all policy details and regulatory compliance before sharing with the client
 
+## Print-ready page — always finish with this
+
+After the summary above, build a single, self-contained HTML policy summary the agent can open in a browser, save as PDF, and send to the client. Do this every time, as the closing step.
+
+- Base the page only on the declarations page and details provided; use bracketed placeholders for anything missing — **never** invent a coverage, a limit, a deductible, or an exclusion to fill it out. An invented number here is the one error that can cost a client a claim.
+- Build a header with the named insured, policy type, carrier, policy number, and term dates, then the coverage limits table, then the plain-English "what this covers" section.
+- Give the exclusions and the "commonly surprises people" items their own clearly marked section — that is the part clients actually need to read.
+- Put only client-facing content in the page — leave internal notes and commission or placement commentary out of it.
+- Put at the foot: the policy document controls, this summary is for convenience only, and the client should call the agent with questions.
+- Give it clean, trustworthy styling and a **"Print / Save as PDF"** button.
+- Present it as a rendered artifact when the surface supports it (Claude Cowork and the desktop app show it in the side panel). If artifacts aren't available, output the full HTML in one code block the user can save as `policy-summary.html` and open.
+
+Produce the summary text first, then the page — never replace one with the other.
+
 ## About this plugin
 
 This command is part of the Insurance Agent plugin by The AI Career Lab. Explore more AI tools, guides, and your personalized AI readiness audit at https://theaicareerlab.com/professions/insurance-agent

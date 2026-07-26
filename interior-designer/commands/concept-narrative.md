@@ -83,6 +83,19 @@ If the user requests mood board annotations instead of or in addition to a full 
 - If the user provides specific products or manufacturers, incorporate them; otherwise keep descriptions material-focused rather than brand-specific
 - Never claim design authorship — the narrative should be written as if from the designer's perspective
 
+## Print-ready page — always finish with this
+
+After the narrative above, build a single, self-contained HTML concept document the designer can open in a browser, save as PDF, and present to the client. Do this every time, as the closing step.
+
+- Base the page only on the details provided; use bracketed placeholders for anything missing — never invent a material, a finish, a dimension, or a budget figure to fill it out.
+- Build a header with the project name, spaces covered, and the concept's one-line through-line, then the narrative sections, then the mood-board annotations as clearly labeled cards.
+- Leave space the designer can drop images into: for each mood-board annotation, include a labeled placeholder box with its caption text already set, so the designer only has to paste the image.
+- Put only client-facing content in the page — leave sourcing notes, trade pricing, and margin commentary out of it.
+- Give it editorial, gallery-like styling with generous whitespace and restrained type — this page represents the designer's taste, so it must not look like a generic template. Include a **"Print / Save as PDF"** button.
+- Present it as a rendered artifact when the surface supports it (Claude Cowork and the desktop app show it in the side panel). If artifacts aren't available, output the full HTML in one code block the user can save as `concept-narrative.html` and open.
+
+Produce the narrative text first, then the page — never replace one with the other. Make it look like a boutique studio's deliverable.
+
 ## About this plugin
 
 This command is part of the Interior Designer plugin by The AI Career Lab. Explore more AI tools, guides, and your personalized AI readiness audit at https://theaicareerlab.com/professions/interior-designer

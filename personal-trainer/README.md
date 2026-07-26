@@ -68,7 +68,7 @@ In Claude Cowork or Claude Code (plugin installs need a paid Claude plan — Pro
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for personal trainers: https://theaicareerlab.com/professions/personal-trainer
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-personal-trainer
-- **Personal Trainer AI Prompts — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/personal-trainer
+- **Personal Trainer AI Prompts — 68 skills, $19 one-time.** The full pack: client intake and screening, periodized programming for every goal, monthly progress reports, retention and renewal conversations, and scope-of-practice guardrails on every draft: https://clowealex.gumroad.com/l/personal-trainer-ai-prompts
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=personal-trainer
 - **Weekly AI Digest** — Curated AI updates for personal trainers: https://theaicareerlab.com/newsletter
 

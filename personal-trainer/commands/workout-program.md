@@ -66,6 +66,20 @@ For each training day:
 - This output is a **program draft for trainer review** — the trainer should adjust based on in-person assessment and client feedback
 - All fitness content is for educational purposes only — clients should consult a qualified healthcare provider for medical conditions
 
+## Print-ready page — always finish with this
+
+After the program above, build a single, self-contained HTML training program sheet the client can open in a browser, save as PDF, or pull up on their phone at the gym. Do this every time, as the closing step.
+
+- Base the page only on the details provided; use bracketed placeholders for anything missing — never invent a client detail, a load, or an injury history to fill it out.
+- Build a header with the client's name, goal, split, frequency, and program length, then one clearly labeled card per training day containing that day's exercise table plus its warm-up and cool-down.
+- Follow the day cards with the progression plan and any injury modifications as their own sections.
+- Keep the exercise tables readable on a phone — the client will use this between sets.
+- Put the educational-use-only note and "check with your healthcare provider" line at the foot.
+- Give it clean, high-contrast gym styling and a **"Print / Save as PDF"** button.
+- Present it as a rendered artifact when the surface supports it (Claude Cowork and the desktop app show it in the side panel). If artifacts aren't available, output the full HTML in one code block the user can save as `training-program.html` and open.
+
+Produce the program text first, then the page — never replace one with the other. Make it look like something a trainer would hand a paying client.
+
 ## About this plugin
 
 This command is part of the Personal Trainer plugin by The AI Career Lab. Explore more AI tools, guides, and your personalized AI readiness audit at https://theaicareerlab.com/professions/personal-trainer

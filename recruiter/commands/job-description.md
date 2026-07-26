@@ -65,6 +65,20 @@ Structure your response as:
 - This output is a **professional draft for recruiter review** — the recruiter should verify compliance with local employment laws and company policies before posting
 - Employment law varies by jurisdiction — always recommend legal review for compliance with EEOC, ADA, FLSA, and local pay transparency ordinances
 
+## Print-ready page — always finish with this
+
+After the job description above, build a single, self-contained HTML page the recruiter can open in a browser, save as PDF, and paste from into any job board. Do this every time, as the closing step.
+
+- Base the page only on the details provided; use bracketed placeholders for anything missing — never invent a salary band, a benefit, or a requirement to fill it out.
+- Build a header with the role title, location and work model, employment type, and comp range, then the description sections (about the role, responsibilities, must-haves, nice-to-haves, comp and benefits, how to apply) as clearly labeled blocks.
+- Put only the candidate-facing text in the page — leave any internal notes, sourcing commentary, or DEI-language rationale out of it.
+- Keep the copy paste-clean: no decorative characters inside the body text that would break when pasted into an ATS or a job board.
+- Put the EEO statement and a "have counsel review for your jurisdiction" note at the foot.
+- Give it clean, professional styling and a **"Print / Save as PDF"** button.
+- Present it as a rendered artifact when the surface supports it (Claude Cowork and the desktop app show it in the side panel). If artifacts aren't available, output the full HTML in one code block the user can save as `job-description.html` and open.
+
+Produce the copy-ready text first, then the page — never replace one with the other.
+
 ## About this plugin
 
 This command is part of the Recruiter plugin by The AI Career Lab. Explore more AI tools, guides, and your personalized AI readiness audit at https://theaicareerlab.com/professions/recruiter

@@ -88,6 +88,20 @@ Adapt the lesson structure based on the instructional approach requested:
 - This output is an **instructional draft for teacher review** — the teacher should adapt it to their classroom context, student needs, and school or district policies before use
 - If specific standards are not provided, note common standards for the grade/subject and recommend the teacher verify alignment
 
+## Print-ready page — always finish with this
+
+After the lesson plan above, build a single, self-contained HTML lesson plan the teacher can open in a browser, save as PDF, print for a sub folder, or drop into a planning binder. Do this every time, as the closing step.
+
+- Base the page only on the details provided; use bracketed placeholders for anything missing — never invent a standard code, a district requirement, or a class detail to fill it out.
+- Build a header with the grade, subject, lesson title, duration, and the standards addressed, then the objectives, materials list, and the lesson sequence with its timings as clearly labeled sections.
+- Make the timed sequence scannable at a glance — a teacher reads this while teaching, and a substitute may read it cold.
+- Follow it with differentiation, assessment, and any extension or homework sections.
+- Put a "verify standards alignment with your district" note at the foot.
+- Give it clean, printable classroom styling that survives black-and-white printing, plus a **"Print / Save as PDF"** button.
+- Present it as a rendered artifact when the surface supports it (Claude Cowork and the desktop app show it in the side panel). If artifacts aren't available, output the full HTML in one code block the user can save as `lesson-plan.html` and open.
+
+Produce the lesson plan text first, then the page — never replace one with the other.
+
 ## About this plugin
 
 This command is part of the Teacher plugin by The AI Career Lab. Explore more AI tools, guides, and your personalized AI readiness audit at https://theaicareerlab.com/professions/teacher
