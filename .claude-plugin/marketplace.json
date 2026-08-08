@@ -257,6 +257,19 @@
       ]
     },
     {
+      "name": "health-and-safety-manager",
+      "source": "./health-and-safety-manager",
+      "description": "Draft incident write-ups, job hazard analyses, toolbox talks, inspection checklists, and corrective-action logs",
+      "category": "compliance",
+      "tags": [
+        "safety",
+        "ehs",
+        "incident-reporting",
+        "job-hazard-analysis",
+        "osha-recordkeeping"
+      ]
+    },
+    {
       "name": "healthcare-compliance-officer",
       "source": "./healthcare-compliance-officer",
       "description": "Validate AI medical devices, manage PCCPs, monitor adverse events, and stay aligned with FDA QSR",

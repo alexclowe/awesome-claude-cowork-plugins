@@ -67,7 +67,7 @@ In Claude Cowork or Claude Code (plugin installs need a paid Claude plan — Pro
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for executive assistants: https://theaicareerlab.com/professions/executive-assistant
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-executive-assistant
-- **Executive Assistant AI Prompts — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/executive-assistant
+- **Executive Assistant AI Office** — A 53-skill AI operating system for EAs — a fixed-layout command center, morning/end-of-day/weekly loops, and the full calendar, inbox, meetings, travel, and documents writing layer in both voices. Ambient confidentiality + boundaries guards on every draft. The done-for-you version of this workflow, $49 one-time: https://clowealex.gumroad.com/l/executive-assistant-ai-office?ref=plugin-executive-assistant
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=executive-assistant
 - **Weekly AI Digest** — Curated AI updates for executive assistants: https://theaicareerlab.com/newsletter
 

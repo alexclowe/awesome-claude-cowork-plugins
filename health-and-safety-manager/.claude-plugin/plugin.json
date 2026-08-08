@@ -1,0 +1,14 @@
+{
+  "name": "health-and-safety-manager",
+  "description": "Draft incident write-ups, job hazard analyses, toolbox talks, inspection checklists, and corrective-action logs",
+  "version": "1.0.0",
+  "author": {
+    "name": "The AI Career Lab",
+    "email": "hello@theaicareerlab.com"
+  },
+  "homepage": "https://theaicareerlab.com/professions/health-and-safety-manager",
+  "repository": "https://github.com/alexclowe/awesome-claude-cowork-plugins",
+  "license": "MIT",
+  "keywords": ["safety", "ehs", "incident-reporting", "job-hazard-analysis", "osha-recordkeeping"],
+  "category": "compliance"
+}

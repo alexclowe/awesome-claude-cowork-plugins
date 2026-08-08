@@ -1,6 +1,6 @@
 # AI Career Lab — Claude Cowork Plugins
 
-43 profession-specific plugin suites for Claude Cowork and Claude Code. Each plugin gives Claude slash commands and auto-activating domain skills for a specific profession.
+44 profession-specific plugin suites for Claude Cowork and Claude Code. Each plugin gives Claude slash commands and auto-activating domain skills for a specific profession.
 
 Research shows profession-specific skills boost AI accuracy by up to 52 percentage points compared to generic prompts.
 
@@ -90,6 +90,7 @@ In Claude Cowork or Claude Code (plugins need a paid Claude plan — Pro, Max, o
 |--------|----------|--------|---------|
 | [AI Compliance Officer](./ai-compliance-officer) | `/audit-ai-system` `/track-regulatory-change` `/generate-documentation` `/eval-autonomous-agent` | High-Risk System Classification, Post-Market Monitoring Automation | `/plugin install ai-compliance-officer@awesome-claude-cowork-plugins` |
 | [ESG Sustainability Analyst](./esg-sustainability-analyst) | `/extract-esg-data` `/assess-esg-risk` `/draft-esg-disclosure` `/track-esg-performance` | Regulatory Standard Mapping, Carbon Accounting Automation | `/plugin install esg-sustainability-analyst@awesome-claude-cowork-plugins` |
+| [Health & Safety Manager](./health-and-safety-manager) | `/incident-report` `/toolbox-talk` `/job-hazard-analysis` `/safety-audit-checklist` `/corrective-action-log` | Hazard Communication Style, Regulatory Caution | `/plugin install health-and-safety-manager@awesome-claude-cowork-plugins` |
 
 ### Design & Creative
 
