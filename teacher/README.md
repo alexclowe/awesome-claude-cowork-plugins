@@ -92,7 +92,7 @@ In Claude Cowork or Claude Code (plugin installs need a paid Claude plan — Pro
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for teachers: https://theaicareerlab.com/professions/teacher
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-teacher
-- **Teacher AI Prompts — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/teacher
+- **Teacher AI Prompts** — 56 agentic skills for K-12 teachers — full lesson plans with timed flow, three-tier differentiation, rubrics and feedback, report-card comment sets, parent emails, and complete sub plans. Ambient student-privacy + professional-boundaries guards on every draft. The done-for-you version of this workflow, $19 one-time: https://clowealex.gumroad.com/l/teacher-ai-prompts?ref=plugin-teacher
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=teacher
 - **Weekly AI Digest** — Curated AI updates for teachers: https://theaicareerlab.com/newsletter
 
