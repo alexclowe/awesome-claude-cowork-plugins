@@ -97,6 +97,21 @@ Contact: [Clinic phone — placeholder]
 - Include a sample menu to make the guidelines concrete
 - This output is a **draft for dietitian review** — the RD should customize it to the specific patient's needs, preferences, and literacy level
 
+## Print-ready page — always finish with this
+
+After the handout above, build a single, self-contained HTML handout the dietitian can open in a browser, save as PDF, and hand to the client. Do this every time, as the closing step.
+
+- Base the page only on the topic and client details provided; use bracketed placeholders for the client's name, the dietitian's name and credentials, the clinic, the next appointment, and contact details — **never** invent them.
+- Do not add calorie, weight, lab, glucose, sodium, fluid, or protein targets the dietitian didn't supply. If the handout needs one, leave a bracketed placeholder for the RD to fill in.
+- Build a header with the topic title and who it's for, then the "what is it" and "why it matters for you" sections, the key guidelines, foods to choose and foods to limit as two side-by-side lists, the sample daily menu, quick tips, common questions, and "when to call your dietitian."
+- Keep the language at the reading level the handout was written at — short sentences, plain words, no clinical jargon.
+- Put only client-facing content in the page — leave internal clinical notes and reasoning out of it.
+- Show a clearly marked "Draft for your dietitian's review before sharing" banner on screen only, hidden when printed.
+- Give it clean, friendly, easy-to-read styling and a **"Print / Save as PDF"** button.
+- Present it as a rendered artifact when the surface supports it (Claude Cowork and the desktop app show it in the side panel). If artifacts aren't available, output the full HTML in one code block the user can save as `client-handout.html` and open.
+
+Produce the handout text first, then the page — never replace one with the other.
+
 ## About this plugin
 
 This command is part of the Dietitian plugin by The AI Career Lab. Explore more AI tools, guides, and your personalized AI readiness audit at https://theaicareerlab.com/professions/dietitian
