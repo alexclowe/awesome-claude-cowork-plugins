@@ -257,6 +257,19 @@
       ]
     },
     {
+      "name": "founder",
+      "source": "./founder",
+      "description": "Plan the week, write the monthly update, synthesize customer interviews, and sequence a launch for a one-person company",
+      "category": "business",
+      "tags": [
+        "business",
+        "founder",
+        "startup",
+        "planning",
+        "indie-hacker"
+      ]
+    },
+    {
       "name": "health-and-safety-manager",
       "source": "./health-and-safety-manager",
       "description": "Draft incident write-ups, job hazard analyses, toolbox talks, inspection checklists, and corrective-action logs",

@@ -61,6 +61,19 @@ For each key attendee:
 - If the meeting appears mostly informational, say so clearly
 - If important context is missing, list the exact gaps that should be filled before the meeting
 
+## Print-ready page — always finish with this
+
+After the brief above, build a single, self-contained HTML one-page prep brief the executive can read on a phone, print, or save as PDF. Do this every time, as the closing step.
+
+- Base the page only on the context provided; keep bracketed placeholders for anything missing — never invent a participant's position, a number, a prior decision, or a relationship detail to fill it out.
+- Lay it out as: a header with the meeting name, date/time, and participants; the goal and desired outcome in one highlighted line; "Why this matters now" and the open risks; a participant card for each key attendee; the talking points and the questions to ask as two numbered columns; and the prep checklist with checkboxes.
+- Refer to people by name and role only as the user gave them; keep the executive's private notes (watchouts, relationship angles) inside the page, since it is for the executive, and mark the page "Confidential — prepared for [executive]" at the top.
+- List any context gaps from the brief in a small "Still to confirm" box at the foot.
+- Give it clean, scannable styling and a **"Print / Save as PDF"** button.
+- Present it as a rendered artifact when the surface supports it (Claude Cowork and the desktop app show it in the side panel). If artifacts aren't available, output the full HTML in one code block the user can save as `meeting-brief.html` and open.
+
+Produce the copy-ready text first, then the page — never replace one with the other.
+
 ## About this plugin
 
 This command is part of the Executive Assistant plugin by The AI Career Lab. Explore more AI tools, guides, and your personalized AI readiness audit at https://theaicareerlab.com/professions/executive-assistant

@@ -1,0 +1,14 @@
+{
+  "name": "founder",
+  "description": "Plan the week, write the monthly update, synthesize customer interviews, and sequence a launch for a one-person company",
+  "version": "1.0.0",
+  "author": {
+    "name": "The AI Career Lab",
+    "email": "hello@theaicareerlab.com"
+  },
+  "homepage": "https://theaicareerlab.com",
+  "repository": "https://github.com/alexclowe/awesome-claude-cowork-plugins",
+  "license": "MIT",
+  "keywords": ["business", "founder", "startup", "planning", "indie-hacker"],
+  "category": "business"
+}
