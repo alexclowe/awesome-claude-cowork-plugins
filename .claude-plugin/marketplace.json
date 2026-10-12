@@ -535,7 +535,7 @@
     {
       "name": "recruiter",
       "source": "./recruiter",
-      "description": "Write job descriptions, draft outreach, screen for ghost jobs and AI-written resumes",
+      "description": "Write job descriptions, draft outreach, and screen job postings for ghost jobs",
       "category": "business",
       "tags": [
         "business",
@@ -544,7 +544,6 @@
         "talent-acquisition",
         "hr",
         "ghost-jobs",
-        "ai-resume-screening",
         "compensation"
       ]
     },

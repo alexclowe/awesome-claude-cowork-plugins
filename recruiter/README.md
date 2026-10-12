@@ -1,6 +1,6 @@
 # Recruiter Plugin for Claude
 
-Write job descriptions, draft candidate outreach, and screen for ghost jobs and AI-written resumes.
+Write job descriptions, draft candidate outreach, and screen job postings for ghost-job red flags.
 
 Built by [The AI Career Lab](https://theaicareerlab.com/professions/recruiter) — AI tools, guides, and weekly digests designed specifically for recruiters.
 
@@ -13,7 +13,6 @@ Built by [The AI Career Lab](https://theaicareerlab.com/professions/recruiter) �
 | `/interview-scorecard` | Create structured interview scorecards with role-specific competencies and behavioral questions |
 | `/offer-letter` | Draft offer letters with compensation breakdowns and generate offer comparison matrices |
 | `/ghost-job-detect` | Analyze a job posting for ghost-job red flags and return a probability score with evidence |
-| `/ai-resume-flag` | Detect AI-written resume language patterns and flag for human review with specific evidence |
 | `/compensation-band-check` | Cross-check a job description's stated comp band against role, seniority, and market data |
 
 ## Skills
@@ -23,7 +22,6 @@ This plugin includes skills that activate automatically when you're working on r
 - **Talent Acquisition** — Sourcing strategy, candidate evaluation, structured hiring, employment law awareness, and compensation benchmarking
 - **Employer Branding** — EVP communication, DEI-inclusive language, candidate experience, role marketing, and brand voice consistency
 - **Ghost Job Detection** — Auto-activates ghost-job red-flag detection on job postings, ATS pipeline indicators, and pay-transparency gaps
-- **AI-Resume Detector** — Pattern recognition for LLM-generated resume text — sentence length variance, em-dash density, and generic accomplishment phrasing
 
 ## Usage examples
 
@@ -34,16 +32,6 @@ We are seeking a passionate, driven engineer to join our growing team. 10+ years
 required across modern web stacks. Salary: competitive. Apply through our talent
 community to be considered for current and future opportunities." Posting age:
 67 days. No req ID, no hiring manager named.
-```
-
-```
-/ai-resume-flag
-Screen this resume for AI-authorship signals. Candidate is applying for a Senior
-Backend Engineer role. Bullets include: "Spearheaded scalable, performant, and
-reliable microservices — driving transformative outcomes across the organization,"
-"Leveraged cutting-edge cloud infrastructure to deliver 50% efficiency gains,"
-"Orchestrated cross-functional initiatives ensuring strategic alignment." No
-specific tools, named projects, or stakeholders mentioned.
 ```
 
 ```
