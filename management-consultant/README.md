@@ -77,7 +77,7 @@ In Claude Cowork or Claude Code (plugin installs need a paid Claude plan — Pro
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for management consultants: https://theaicareerlab.com/professions/management-consultant
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-management-consultant
-- **Management Consultant AI Prompts** — 59 production-tested skills for working consultants — Pyramid Principle exec summaries, MECE issue trees, weekly status emails, NDA-safe BD content. Every framework citation reviewed against Porter (HBR 1979), Minto (1987/1996), and the canon. Skill-specific refuse conditions for fabricated McKinsey citations, MNPI in M&A skills, and NDA-violating LinkedIn drafts. The done-for-you version of this workflow, $19 one-time: https://clowealex.gumroad.com/l/management-consultant-ai-prompts?ref=plugin-management-consultant
+- **Management Consultant AI Operating System** — A command center plus five connected jobs for exec summaries, issue trees, status emails, and NDA-safe BD content — drafted into your Gmail, Calendar, and Drive for your approval, with living trackers. Refuse conditions for fabricated citations, MNPI, and NDA-violating drafts. Every prompt included — 66 skills in all. The done-for-you version of this workflow, $19 one-time: https://clowealex.gumroad.com/l/management-consultant-ai-prompts?ref=plugin-management-consultant
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=management-consultant
 - **Weekly AI Digest** — Curated AI updates for management consultants: https://theaicareerlab.com/newsletter
 

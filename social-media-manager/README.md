@@ -98,7 +98,7 @@ In Claude Cowork or Claude Code (plugin installs need a paid Claude plan — Pro
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for social media managers: https://theaicareerlab.com/professions/social-media-manager
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-social-media-manager
-- **Social Media Manager AI Prompts** — 38 agentic skills + 8 starter cartridges + a 1-input repurposing engine that turns one source into 6 platform variants. Ambient voice-bleed guard included. The done-for-you version of this workflow, $19 one-time: https://clowealex.gumroad.com/l/smm-ai-prompts?ref=plugin-social-media-manager
+- **Social Media Manager AI Operating System** — A command center plus five connected jobs for calendars, repurposing, and client reports — drafted into your Gmail, Calendar, and Drive for your approval, with living trackers. Ambient voice-bleed guard included. Every prompt included — 45 skills in all. The done-for-you version of this workflow, $19 one-time: https://clowealex.gumroad.com/l/smm-ai-prompts?ref=plugin-social-media-manager
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=social-media-manager
 - **Weekly AI Digest** — Curated AI updates for social media managers: https://theaicareerlab.com/newsletter
 

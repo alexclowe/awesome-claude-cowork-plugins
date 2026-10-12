@@ -74,7 +74,7 @@ In Claude Cowork or Claude Code (plugin installs need a paid Claude plan — Pro
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for bookkeepers: https://theaicareerlab.com/professions/bookkeeper
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-bookkeeper
-- **Bookkeeper AI Prompts** — 62 agentic skills for monthly close, reconciliations, and client comms. Ambient CPA-boundary guard keeps you out of tax-advice territory. The done-for-you version of this workflow, $19 one-time: https://clowealex.gumroad.com/l/bookkeeper-ai-prompts?ref=plugin-bookkeeper
+- **Bookkeeper AI Operating System** — A command center plus five connected jobs for monthly close, reconciliations, and client comms — drafted into your Gmail, Calendar, and Drive for your approval, with living trackers. Ambient CPA-boundary guard keeps you out of tax-advice territory. Every prompt included — 69 skills in all. The done-for-you version of this workflow, $19 one-time: https://clowealex.gumroad.com/l/bookkeeper-ai-prompts?ref=plugin-bookkeeper
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=bookkeeper
 - **Weekly AI Digest** — Curated AI updates for bookkeepers: https://theaicareerlab.com/newsletter
 

@@ -69,7 +69,7 @@ In Claude Cowork or Claude Code (plugin installs need a paid Claude plan — Pro
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for mortgage brokers: https://theaicareerlab.com/professions/mortgage-broker
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-mortgage-broker
-- **Loan Officer AI Prompts** — 58 agentic skills for borrower comms and realtor co-marketing. Ambient TILA/RESPA/ECOA guards catch fair-lending issues before they hit the wire. The done-for-you version of this workflow, $19 one-time: https://clowealex.gumroad.com/l/loan-officer-ai-prompts?ref=plugin-mortgage-broker
+- **Loan Officer AI Operating System** — A command center plus five connected jobs for borrower comms and realtor co-marketing — drafted into your Gmail, Calendar, and Drive for your approval, with living trackers. Ambient TILA/RESPA/ECOA guards catch fair-lending issues before they hit the wire. Every prompt included — 65 skills in all. The done-for-you version of this workflow, $19 one-time: https://clowealex.gumroad.com/l/loan-officer-ai-prompts?ref=plugin-mortgage-broker
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=mortgage-broker
 - **Weekly AI Digest** — Curated AI updates for mortgage brokers: https://theaicareerlab.com/newsletter
 

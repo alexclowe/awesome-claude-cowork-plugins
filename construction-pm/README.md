@@ -74,7 +74,7 @@ In Claude Cowork or Claude Code (plugin installs need a paid Claude plan — Pro
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for construction project managers: https://theaicareerlab.com/professions/construction-pm
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-construction-pm
-- **Contractor AI Prompts** — 50 agentic skills for estimates, change orders, and customer comms. Ambient lien-and-license guards built in. The done-for-you version of this workflow, $9 one-time: https://clowealex.gumroad.com/l/contractor-ai-prompts?ref=plugin-construction-pm
+- **Contractor AI Operating System** — A command center plus five connected jobs for estimates, change orders, and customer comms — drafted into your Gmail, Calendar, and Drive for your approval, with living trackers. Ambient lien-and-license guards built in. Every prompt included — 57 skills in all. The done-for-you version of this workflow, $19 one-time: https://clowealex.gumroad.com/l/contractor-ai-prompts?ref=plugin-construction-pm
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=construction-pm
 - **Weekly AI Digest** — Curated AI updates for construction project managers: https://theaicareerlab.com/newsletter
 

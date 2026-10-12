@@ -104,7 +104,7 @@ In Claude Cowork or Claude Code (plugin installs need a paid Claude plan — Pro
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for financial advisors: https://theaicareerlab.com/professions/financial-advisor
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-financial-advisor
-- **Financial Advisor AI Prompts** — 31 agentic skills — the compliance, client-communication, and book-growth layer that stacks on top of Anthropic's free Claude for Financial Services plugin. Reg BI rationale memos, Form ADV-consistent disclosures, SEC Marketing Rule reviews, client emails in your voice. Ambient compliance-boundary + client-NPI guards built in. The done-for-you version of this workflow, $19 one-time: https://clowealex.gumroad.com/l/financial-advisor-ai-prompts?ref=plugin-financial-advisor
+- **Financial Advisor AI Operating System** — A command center plus five connected jobs for Reg BI rationale memos, Form ADV-consistent disclosures, and client emails in your voice — drafted into your Gmail, Calendar, and Drive for your approval, with living trackers. Stacks on Anthropic's free Claude for Financial Services plugin. Ambient compliance-boundary + client-NPI guards built in. Every prompt included — 39 skills in all. The done-for-you version of this workflow, $19 one-time: https://clowealex.gumroad.com/l/financial-advisor-ai-prompts?ref=plugin-financial-advisor
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=financial-advisor
 - **Weekly AI Digest** — Curated AI updates for financial advisors: https://theaicareerlab.com/newsletter
 

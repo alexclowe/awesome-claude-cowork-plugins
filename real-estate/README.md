@@ -78,7 +78,7 @@ In Claude Cowork or Claude Code (plugin installs need a paid Claude plan — Pro
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for real estate agents: https://theaicareerlab.com/professions/real-estate
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-real-estate
-- **Realtor AI Prompts** — 62 agentic skills for listings, client emails, CMAs, and open houses. Ambient fair-housing guard flags steering language before it ships. The done-for-you version of this workflow, $19 one-time: https://clowealex.gumroad.com/l/realtor-ai-prompts?ref=plugin-real-estate
+- **Real Estate AI Operating System** — A command center plus five connected jobs for listings, CMAs, seller updates, and deals to close — drafted into your Gmail, Calendar, and Drive for your approval, with living trackers. Ambient fair-housing guard flags steering language before it ships. Every prompt included — 79 skills in all. The done-for-you version of this workflow, $19 one-time: https://clowealex.gumroad.com/l/realtor-ai-prompts?ref=plugin-real-estate
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=real-estate
 - **Weekly AI Digest** — Curated AI updates for real estate agents: https://theaicareerlab.com/newsletter
 

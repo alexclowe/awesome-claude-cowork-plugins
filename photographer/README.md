@@ -71,7 +71,7 @@ In Claude Cowork or Claude Code (plugin installs need a paid Claude plan — Pro
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for photographers: https://theaicareerlab.com/professions/photographer
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-photographer
-- **Photographer AI Prompts** — 58 agentic skills for inquiries, gallery delivery, contracts, and vendor pitches. Ambient AI-edit-aware contract guard built in. The done-for-you version of this workflow, $9 one-time: https://clowealex.gumroad.com/l/photographer-ai-prompts?ref=plugin-photographer
+- **Photographer AI Operating System** — A command center plus five connected jobs for inquiries, gallery delivery, contracts, and vendor pitches — drafted into your Gmail, Calendar, and Drive for your approval, with living trackers. Ambient AI-edit-aware contract guard built in. Every prompt included — 65 skills in all. The done-for-you version of this workflow, $19 one-time: https://clowealex.gumroad.com/l/photographer-ai-prompts?ref=plugin-photographer
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=photographer
 - **Weekly AI Digest** — Curated AI updates for photographers: https://theaicareerlab.com/newsletter
 
