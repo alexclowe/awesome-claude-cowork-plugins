@@ -432,7 +432,7 @@
     {
       "name": "personal-trainer",
       "source": "./personal-trainer",
-      "description": "Build workout programs, write nutrition plans, and generate client reports",
+      "description": "Build workout programs, draft general nutrition guidance, and generate client reports",
       "category": "wellness",
       "tags": [
         "wellness",

@@ -59,9 +59,9 @@ Structure your response as:
 - [Specific changes to volume, intensity, exercise selection, or split]
 - [Rationale for each change]
 
-**Nutrition adjustments:**
-- [Calorie or macro modifications based on progress rate]
-- [Rationale for each change]
+**Nutrition habits (general, not a prescription):**
+- [General habit-level focus, e.g. regular meals, protein at each meal, hydration — no calorie or macro targets]
+- [If the client needs specific targets, has a medical condition, or asks about supplements: note a referral to a registered dietitian or physician]
 
 **Focus areas:**
 - [Movement quality, weak points, or habit goals to prioritize]
@@ -80,6 +80,7 @@ Structure your response as:
 - If progress has stalled, analyze possible causes constructively (adherence, recovery, programming, stress, sleep)
 - Frame setbacks as information, not failures
 - Never include actual client identifiers — use placeholders
+- Stay within a trainer's scope on nutrition: no calorie or macro prescriptions and no supplement recommendations; refer to a registered dietitian or physician for individualized plans
 - This output is a **progress draft for trainer review** — the trainer should personalize before sharing with the client
 - All fitness content is for educational purposes only — clients should consult a qualified healthcare provider for medical conditions
 
