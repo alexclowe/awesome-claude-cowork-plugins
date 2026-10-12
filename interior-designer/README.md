@@ -71,7 +71,7 @@ In Claude Cowork or Claude Code (plugin installs need a paid Claude plan — Pro
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for interior designers: https://theaicareerlab.com/professions/interior-designer
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-interior-designer
-- **Interior Designer AI Prompts — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/interior-designer
+- **Interior Designer AI Operating System** — A command center plus five connected jobs for winning clients, sourcing and presenting selections, placing and tracking orders, install day, and billing — drafted into your Gmail, Calendar, and Drive for your approval, with living trackers. Ambient guards keep your markup on the internal sheet and client prices out of vendor emails. Every prompt included — 66 skills in all. The done-for-you version of this workflow, $19 one-time: https://clowealex.gumroad.com/l/interior-designer-ai-os?ref=plugin-interior-designer
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=interior-designer
 - **Weekly AI Digest** — Curated AI updates for interior designers: https://theaicareerlab.com/newsletter
 

@@ -1,7 +1,7 @@
 {
   "name": "event-planner",
   "description": "Create event proposals, vendor outreach, day-of timelines, and client updates for event planning",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "The AI Career Lab",
     "email": "hello@theaicareerlab.com"

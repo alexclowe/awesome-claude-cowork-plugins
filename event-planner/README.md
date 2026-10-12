@@ -73,7 +73,7 @@ In Claude Cowork or Claude Code (plugin installs need a paid Claude plan — Pro
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for event planners: https://theaicareerlab.com/professions/event-planner
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-event-planner
-- **Event Planner AI Prompts — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/event-planner
+- **Event Planner AI Operating System** — A command center plus five connected jobs for booking clients, starting events, booking and confirming vendors, a weekly money check, and final details and wrap-up — drafted into your Gmail, Calendar, and Drive for your approval, with living trackers. It never invents a price or vendor, and never states a permit or venue rule as fact. Every prompt included — 70 skills in all. The done-for-you version of this workflow, $19 one-time: https://clowealex.gumroad.com/l/event-planner-ai-operating-system?ref=plugin-event-planner
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=event-planner
 - **Weekly AI Digest** — Curated AI updates for event planners: https://theaicareerlab.com/newsletter
 

@@ -71,7 +71,7 @@ In Claude Cowork or Claude Code (plugin installs need a paid Claude plan — Pro
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for insurance agents: https://theaicareerlab.com/professions/insurance-agent
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-insurance-agent
-- **Insurance Agent AI Prompts — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/insurance-agent
+- **Insurance Agent AI Operating System** — A command center plus five connected jobs for renewals, new-client onboarding, annual reviews, claim support, and referrals and marketing — drafted into your Gmail, Calendar, and Drive for your approval, with living trackers. Ambient advice-boundary, advertising, and client-data guards; it never makes a coverage call. Every prompt included — 67 skills in all. The done-for-you version of this workflow, $19 one-time: https://clowealex.gumroad.com/l/insurance-agent-ai-os?ref=plugin-insurance-agent
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=insurance-agent
 - **Weekly AI Digest** — Curated AI updates for insurance agents: https://theaicareerlab.com/newsletter
 

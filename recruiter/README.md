@@ -83,7 +83,7 @@ In Claude Cowork or Claude Code (plugin installs need a paid Claude plan — Pro
 
 - **Profession hub** — Free tools, guides, and the AI Career Lab pillar guide for recruiters: https://theaicareerlab.com/professions/recruiter
 - **Claude Cowork playbook** — How to set up Claude as your daily co-worker: https://theaicareerlab.com/resources/claude-cowork-recruiter
-- **Recruiter AI Prompts — coming soon.** Want the done-for-you setup (prompts, templates, and a ready-to-use Claude Project)? Join the waitlist and we'll email you the moment it ships: https://theaicareerlab.com/waitlist/recruiter
+- **Recruiter AI Operating System** — A command center plus five connected jobs for opening reqs, outreach and follow-ups, interview loops, offers through day one, and weekly hiring-manager updates — drafted into your Gmail, Calendar, and Drive for your approval, with living trackers. Ambient human-decision, fair-hiring, and candidate-privacy guards; it never screens or ranks candidates. Every prompt included — 70 skills in all. The done-for-you version of this workflow, $19 one-time: https://clowealex.gumroad.com/l/recruiter-ai-operating-system?ref=plugin-recruiter
 - **AI Readiness Audit** — 2-minute score for your practice: https://theaicareerlab.com/audit?profession=recruiter
 - **Weekly AI Digest** — Curated AI updates for recruiters: https://theaicareerlab.com/newsletter
 
